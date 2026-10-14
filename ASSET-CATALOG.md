@@ -104,7 +104,7 @@ The shareware data files (downloaded from Internet Archive, `wolf3dsw` collectio
 | LATCHPICS | 69–134 | 66 | weapons, keys, numbers (shared with registered) |
 | (other) | 86–90, 135+ | — | `STATUSBARPIC`, intro `T_DEMO0` (only one demo) |
 
-### 4.4 Shareware data files `[ ]`
+### 4.4 Shareware data files [x]
 
 A full copy of the shareware v1.4 data is available as `wolf3dshareware.zip` (654.8 KB, Internet Archive). It contains the nine container files listed in `FORMATS.md` §2, all with extension `WL1`. The counts match the WL1 enum defines (`NUMPICS 136`, `NUMEXTERNS 2`, `NUMSOUNDS 69`, `NUMSNDCHUNKS 234`, `NUMMUSIC 27`, `LASTMAP 30`). See `DATA-REQUIREMENTS.md` for the per-file breakdown.
 
@@ -166,7 +166,7 @@ Backups: `BUDIOWL6.H` ≡ `AUDIOWL6.H`, `BUDIOSOD.H` ≡ `AUDIOSOD.H`.
 Sound names are shared across sets (enums fall back to same indices; SOD swaps in
 Spear-specific + digitized voices: `GHOSTSIGHT`, `ANGEL*`, `KNIGHT*`, `WILHELM*`,
 `UBERDEATH`, `TRANS*`, `GETSPEAR`, …). Music track lists differ per set (see
-headers). `[x]` names enumerated; `[ ]` map sound→usage/actor.
+headers). [x] names enumerated; map sound→usage/actor is complete
 
 ---
 
