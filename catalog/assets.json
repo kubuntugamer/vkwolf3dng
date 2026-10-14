@@ -1,0 +1,8257 @@
+{
+ "graphics": [
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 3,
+   "symbol": "H_BJPIC",
+   "note": ""
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 4,
+   "symbol": "H_CASTLEPIC",
+   "note": "4"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 5,
+   "symbol": "H_BLAZEPIC",
+   "note": "5"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 6,
+   "symbol": "H_TOPWINDOWPIC",
+   "note": "6"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 7,
+   "symbol": "H_LEFTWINDOWPIC",
+   "note": "7"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 8,
+   "symbol": "H_RIGHTWINDOWPIC",
+   "note": "8"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 9,
+   "symbol": "H_BOTTOMINFOPIC",
+   "note": "9"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 10,
+   "symbol": "C_OPTIONSPIC",
+   "note": "10"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 11,
+   "symbol": "C_CURSOR1PIC",
+   "note": "11"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 12,
+   "symbol": "C_CURSOR2PIC",
+   "note": "12"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 13,
+   "symbol": "C_NOTSELECTEDPIC",
+   "note": "13"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 14,
+   "symbol": "C_SELECTEDPIC",
+   "note": "14"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 15,
+   "symbol": "C_FXTITLEPIC",
+   "note": "15"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 16,
+   "symbol": "C_DIGITITLEPIC",
+   "note": "16"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 17,
+   "symbol": "C_MUSICTITLEPIC",
+   "note": "17"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 18,
+   "symbol": "C_MOUSELBACKPIC",
+   "note": "18"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 19,
+   "symbol": "C_BABYMODEPIC",
+   "note": "19"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 20,
+   "symbol": "C_EASYPIC",
+   "note": "20"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 21,
+   "symbol": "C_NORMALPIC",
+   "note": "21"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 22,
+   "symbol": "C_HARDPIC",
+   "note": "22"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 23,
+   "symbol": "C_LOADSAVEDISKPIC",
+   "note": "23"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 24,
+   "symbol": "C_DISKLOADING1PIC",
+   "note": "24"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 25,
+   "symbol": "C_DISKLOADING2PIC",
+   "note": "25"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 26,
+   "symbol": "C_CONTROLPIC",
+   "note": "26"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 27,
+   "symbol": "C_CUSTOMIZEPIC",
+   "note": "27"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 28,
+   "symbol": "C_LOADGAMEPIC",
+   "note": "28"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 29,
+   "symbol": "C_SAVEGAMEPIC",
+   "note": "29"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 30,
+   "symbol": "C_EPISODE1PIC",
+   "note": "30"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 31,
+   "symbol": "C_EPISODE2PIC",
+   "note": "31"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 32,
+   "symbol": "C_EPISODE3PIC",
+   "note": "32"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 33,
+   "symbol": "C_EPISODE4PIC",
+   "note": "33"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 34,
+   "symbol": "C_EPISODE5PIC",
+   "note": "34"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 35,
+   "symbol": "C_EPISODE6PIC",
+   "note": "35"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 36,
+   "symbol": "C_CODEPIC",
+   "note": "36"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 37,
+   "symbol": "C_TIMECODEPIC",
+   "note": "37"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 38,
+   "symbol": "C_LEVELPIC",
+   "note": "38"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 39,
+   "symbol": "C_NAMEPIC",
+   "note": "39"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 40,
+   "symbol": "C_SCOREPIC",
+   "note": "40"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 41,
+   "symbol": "C_JOY1PIC",
+   "note": "41"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 42,
+   "symbol": "C_JOY2PIC",
+   "note": "42"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 43,
+   "symbol": "L_GUYPIC",
+   "note": "43"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 44,
+   "symbol": "L_COLONPIC",
+   "note": "44"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 45,
+   "symbol": "L_NUM0PIC",
+   "note": "45"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 46,
+   "symbol": "L_NUM1PIC",
+   "note": "46"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 47,
+   "symbol": "L_NUM2PIC",
+   "note": "47"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 48,
+   "symbol": "L_NUM3PIC",
+   "note": "48"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 49,
+   "symbol": "L_NUM4PIC",
+   "note": "49"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 50,
+   "symbol": "L_NUM5PIC",
+   "note": "50"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 51,
+   "symbol": "L_NUM6PIC",
+   "note": "51"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 52,
+   "symbol": "L_NUM7PIC",
+   "note": "52"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 53,
+   "symbol": "L_NUM8PIC",
+   "note": "53"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 54,
+   "symbol": "L_NUM9PIC",
+   "note": "54"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 55,
+   "symbol": "L_PERCENTPIC",
+   "note": "55"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 56,
+   "symbol": "L_APIC",
+   "note": "56"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 57,
+   "symbol": "L_BPIC",
+   "note": "57"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 58,
+   "symbol": "L_CPIC",
+   "note": "58"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 59,
+   "symbol": "L_DPIC",
+   "note": "59"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 60,
+   "symbol": "L_EPIC",
+   "note": "60"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 61,
+   "symbol": "L_FPIC",
+   "note": "61"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 62,
+   "symbol": "L_GPIC",
+   "note": "62"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 63,
+   "symbol": "L_HPIC",
+   "note": "63"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 64,
+   "symbol": "L_IPIC",
+   "note": "64"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 65,
+   "symbol": "L_JPIC",
+   "note": "65"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 66,
+   "symbol": "L_KPIC",
+   "note": "66"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 67,
+   "symbol": "L_LPIC",
+   "note": "67"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 68,
+   "symbol": "L_MPIC",
+   "note": "68"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 69,
+   "symbol": "L_NPIC",
+   "note": "69"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 70,
+   "symbol": "L_OPIC",
+   "note": "70"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 71,
+   "symbol": "L_PPIC",
+   "note": "71"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 72,
+   "symbol": "L_QPIC",
+   "note": "72"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 73,
+   "symbol": "L_RPIC",
+   "note": "73"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 74,
+   "symbol": "L_SPIC",
+   "note": "74"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 75,
+   "symbol": "L_TPIC",
+   "note": "75"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 76,
+   "symbol": "L_UPIC",
+   "note": "76"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 77,
+   "symbol": "L_VPIC",
+   "note": "77"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 78,
+   "symbol": "L_WPIC",
+   "note": "78"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 79,
+   "symbol": "L_XPIC",
+   "note": "79"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 80,
+   "symbol": "L_YPIC",
+   "note": "80"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 81,
+   "symbol": "L_ZPIC",
+   "note": "81"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 82,
+   "symbol": "L_EXPOINTPIC",
+   "note": "82"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 83,
+   "symbol": "L_APOSTROPHEPIC",
+   "note": "83"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 84,
+   "symbol": "L_GUY2PIC",
+   "note": "84"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 85,
+   "symbol": "L_BJWINSPIC",
+   "note": "85"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 86,
+   "symbol": "STATUSBARPIC",
+   "note": "86"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 87,
+   "symbol": "TITLEPIC",
+   "note": "87"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 88,
+   "symbol": "PG13PIC",
+   "note": "88"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 89,
+   "symbol": "CREDITSPIC",
+   "note": "89"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 90,
+   "symbol": "HIGHSCORESPIC",
+   "note": "90"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 91,
+   "symbol": "KNIFEPIC",
+   "note": "91"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 92,
+   "symbol": "GUNPIC",
+   "note": "92"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 93,
+   "symbol": "MACHINEGUNPIC",
+   "note": "93"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 94,
+   "symbol": "GATLINGGUNPIC",
+   "note": "94"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 95,
+   "symbol": "NOKEYPIC",
+   "note": "95"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 96,
+   "symbol": "GOLDKEYPIC",
+   "note": "96"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 97,
+   "symbol": "SILVERKEYPIC",
+   "note": "97"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 98,
+   "symbol": "N_BLANKPIC",
+   "note": "98"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 99,
+   "symbol": "N_0PIC",
+   "note": "99"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 100,
+   "symbol": "N_1PIC",
+   "note": "100"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 101,
+   "symbol": "N_2PIC",
+   "note": "101"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 102,
+   "symbol": "N_3PIC",
+   "note": "102"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 103,
+   "symbol": "N_4PIC",
+   "note": "103"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 104,
+   "symbol": "N_5PIC",
+   "note": "104"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 105,
+   "symbol": "N_6PIC",
+   "note": "105"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 106,
+   "symbol": "N_7PIC",
+   "note": "106"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 107,
+   "symbol": "N_8PIC",
+   "note": "107"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 108,
+   "symbol": "N_9PIC",
+   "note": "108"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 109,
+   "symbol": "FACE1APIC",
+   "note": "109"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 110,
+   "symbol": "FACE1BPIC",
+   "note": "110"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 111,
+   "symbol": "FACE1CPIC",
+   "note": "111"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 112,
+   "symbol": "FACE2APIC",
+   "note": "112"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 113,
+   "symbol": "FACE2BPIC",
+   "note": "113"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 114,
+   "symbol": "FACE2CPIC",
+   "note": "114"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 115,
+   "symbol": "FACE3APIC",
+   "note": "115"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 116,
+   "symbol": "FACE3BPIC",
+   "note": "116"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 117,
+   "symbol": "FACE3CPIC",
+   "note": "117"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 118,
+   "symbol": "FACE4APIC",
+   "note": "118"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 119,
+   "symbol": "FACE4BPIC",
+   "note": "119"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 120,
+   "symbol": "FACE4CPIC",
+   "note": "120"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 121,
+   "symbol": "FACE5APIC",
+   "note": "121"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 122,
+   "symbol": "FACE5BPIC",
+   "note": "122"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 123,
+   "symbol": "FACE5CPIC",
+   "note": "123"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 124,
+   "symbol": "FACE6APIC",
+   "note": "124"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 125,
+   "symbol": "FACE6BPIC",
+   "note": "125"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 126,
+   "symbol": "FACE6CPIC",
+   "note": "126"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 127,
+   "symbol": "FACE7APIC",
+   "note": "127"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 128,
+   "symbol": "FACE7BPIC",
+   "note": "128"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 129,
+   "symbol": "FACE7CPIC",
+   "note": "129"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 130,
+   "symbol": "FACE8APIC",
+   "note": "130"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 131,
+   "symbol": "GOTGATLINGPIC",
+   "note": "131"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 132,
+   "symbol": "MUTANTBJPIC",
+   "note": "132"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 133,
+   "symbol": "PAUSEDPIC",
+   "note": "133"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 134,
+   "symbol": "GETPSYCHEDPIC",
+   "note": "134"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 136,
+   "symbol": "ORDERSCREEN",
+   "note": ""
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 137,
+   "symbol": "ERRORSCREEN",
+   "note": "137"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 138,
+   "symbol": "T_HELPART",
+   "note": "138"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 139,
+   "symbol": "T_DEMO0",
+   "note": "139"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 140,
+   "symbol": "T_DEMO1",
+   "note": "140"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 141,
+   "symbol": "T_DEMO2",
+   "note": "141"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 142,
+   "symbol": "T_DEMO3",
+   "note": "142"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 143,
+   "symbol": "T_ENDART1",
+   "note": "143"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 144,
+   "symbol": "T_ENDART2",
+   "note": "144"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 145,
+   "symbol": "T_ENDART3",
+   "note": "145"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 146,
+   "symbol": "T_ENDART4",
+   "note": "146"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 147,
+   "symbol": "T_ENDART5",
+   "note": "147"
+  },
+  {
+   "set": "WL6",
+   "kind": "vga",
+   "id": 148,
+   "symbol": "T_ENDART6",
+   "note": "148"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 3,
+   "symbol": "H_BJPIC",
+   "note": ""
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 4,
+   "symbol": "H_CASTLEPIC",
+   "note": "4"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 5,
+   "symbol": "H_KEYBOARDPIC",
+   "note": "5"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 6,
+   "symbol": "H_JOYPIC",
+   "note": "6"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 7,
+   "symbol": "H_HEALPIC",
+   "note": "7"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 8,
+   "symbol": "H_TREASUREPIC",
+   "note": "8"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 9,
+   "symbol": "H_GUNPIC",
+   "note": "9"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 10,
+   "symbol": "H_KEYPIC",
+   "note": "10"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 11,
+   "symbol": "H_BLAZEPIC",
+   "note": "11"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 12,
+   "symbol": "H_WEAPON1234PIC",
+   "note": "12"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 13,
+   "symbol": "H_WOLFLOGOPIC",
+   "note": "13"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 14,
+   "symbol": "H_VISAPIC",
+   "note": "14"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 15,
+   "symbol": "H_MCPIC",
+   "note": "15"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 16,
+   "symbol": "H_IDLOGOPIC",
+   "note": "16"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 17,
+   "symbol": "H_TOPWINDOWPIC",
+   "note": "17"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 18,
+   "symbol": "H_LEFTWINDOWPIC",
+   "note": "18"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 19,
+   "symbol": "H_RIGHTWINDOWPIC",
+   "note": "19"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 20,
+   "symbol": "H_BOTTOMINFOPIC",
+   "note": "20"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 21,
+   "symbol": "C_OPTIONSPIC",
+   "note": "21"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 22,
+   "symbol": "C_CURSOR1PIC",
+   "note": "22"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 23,
+   "symbol": "C_CURSOR2PIC",
+   "note": "23"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 24,
+   "symbol": "C_NOTSELECTEDPIC",
+   "note": "24"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 25,
+   "symbol": "C_SELECTEDPIC",
+   "note": "25"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 26,
+   "symbol": "C_FXTITLEPIC",
+   "note": "26"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 27,
+   "symbol": "C_DIGITITLEPIC",
+   "note": "27"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 28,
+   "symbol": "C_MUSICTITLEPIC",
+   "note": "28"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 29,
+   "symbol": "C_MOUSELBACKPIC",
+   "note": "29"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 30,
+   "symbol": "C_BABYMODEPIC",
+   "note": "30"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 31,
+   "symbol": "C_EASYPIC",
+   "note": "31"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 32,
+   "symbol": "C_NORMALPIC",
+   "note": "32"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 33,
+   "symbol": "C_HARDPIC",
+   "note": "33"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 34,
+   "symbol": "C_LOADSAVEDISKPIC",
+   "note": "34"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 35,
+   "symbol": "C_DISKLOADING1PIC",
+   "note": "35"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 36,
+   "symbol": "C_DISKLOADING2PIC",
+   "note": "36"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 37,
+   "symbol": "C_CONTROLPIC",
+   "note": "37"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 38,
+   "symbol": "C_CUSTOMIZEPIC",
+   "note": "38"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 39,
+   "symbol": "C_LOADGAMEPIC",
+   "note": "39"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 40,
+   "symbol": "C_SAVEGAMEPIC",
+   "note": "40"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 41,
+   "symbol": "C_EPISODE1PIC",
+   "note": "41"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 42,
+   "symbol": "C_EPISODE2PIC",
+   "note": "42"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 43,
+   "symbol": "C_EPISODE3PIC",
+   "note": "43"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 44,
+   "symbol": "C_EPISODE4PIC",
+   "note": "44"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 45,
+   "symbol": "C_EPISODE5PIC",
+   "note": "45"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 46,
+   "symbol": "C_EPISODE6PIC",
+   "note": "46"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 47,
+   "symbol": "C_CODEPIC",
+   "note": "47"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 48,
+   "symbol": "L_GUYPIC",
+   "note": "48"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 49,
+   "symbol": "L_COLONPIC",
+   "note": "49"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 50,
+   "symbol": "L_NUM0PIC",
+   "note": "50"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 51,
+   "symbol": "L_NUM1PIC",
+   "note": "51"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 52,
+   "symbol": "L_NUM2PIC",
+   "note": "52"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 53,
+   "symbol": "L_NUM3PIC",
+   "note": "53"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 54,
+   "symbol": "L_NUM4PIC",
+   "note": "54"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 55,
+   "symbol": "L_NUM5PIC",
+   "note": "55"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 56,
+   "symbol": "L_NUM6PIC",
+   "note": "56"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 57,
+   "symbol": "L_NUM7PIC",
+   "note": "57"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 58,
+   "symbol": "L_NUM8PIC",
+   "note": "58"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 59,
+   "symbol": "L_NUM9PIC",
+   "note": "59"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 60,
+   "symbol": "L_PERCENTPIC",
+   "note": "60"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 61,
+   "symbol": "L_APIC",
+   "note": "61"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 62,
+   "symbol": "L_BPIC",
+   "note": "62"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 63,
+   "symbol": "L_CPIC",
+   "note": "63"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 64,
+   "symbol": "L_DPIC",
+   "note": "64"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 65,
+   "symbol": "L_EPIC",
+   "note": "65"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 66,
+   "symbol": "L_FPIC",
+   "note": "66"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 67,
+   "symbol": "L_GPIC",
+   "note": "67"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 68,
+   "symbol": "L_HPIC",
+   "note": "68"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 69,
+   "symbol": "L_IPIC",
+   "note": "69"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 70,
+   "symbol": "L_JPIC",
+   "note": "70"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 71,
+   "symbol": "L_KPIC",
+   "note": "71"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 72,
+   "symbol": "L_LPIC",
+   "note": "72"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 73,
+   "symbol": "L_MPIC",
+   "note": "73"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 74,
+   "symbol": "L_NPIC",
+   "note": "74"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 75,
+   "symbol": "L_OPIC",
+   "note": "75"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 76,
+   "symbol": "L_PPIC",
+   "note": "76"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 77,
+   "symbol": "L_QPIC",
+   "note": "77"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 78,
+   "symbol": "L_RPIC",
+   "note": "78"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 79,
+   "symbol": "L_SPIC",
+   "note": "79"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 80,
+   "symbol": "L_TPIC",
+   "note": "80"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 81,
+   "symbol": "L_UPIC",
+   "note": "81"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 82,
+   "symbol": "L_VPIC",
+   "note": "82"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 83,
+   "symbol": "L_WPIC",
+   "note": "83"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 84,
+   "symbol": "L_XPIC",
+   "note": "84"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 85,
+   "symbol": "L_YPIC",
+   "note": "85"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 86,
+   "symbol": "L_ZPIC",
+   "note": "86"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 87,
+   "symbol": "L_EXPOINTPIC",
+   "note": "87"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 88,
+   "symbol": "L_GUY2PIC",
+   "note": "88"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 89,
+   "symbol": "L_BJWINSPIC",
+   "note": "89"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 90,
+   "symbol": "STATUSBARPIC",
+   "note": "90"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 91,
+   "symbol": "TITLEPIC",
+   "note": "91"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 92,
+   "symbol": "PG13PIC",
+   "note": "92"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 93,
+   "symbol": "CREDITSPIC",
+   "note": "93"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 94,
+   "symbol": "HIGHSCORESPIC",
+   "note": "94"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 95,
+   "symbol": "KNIFEPIC",
+   "note": "95"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 96,
+   "symbol": "GUNPIC",
+   "note": "96"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 97,
+   "symbol": "MACHINEGUNPIC",
+   "note": "97"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 98,
+   "symbol": "GATLINGGUNPIC",
+   "note": "98"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 99,
+   "symbol": "NOKEYPIC",
+   "note": "99"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 100,
+   "symbol": "GOLDKEYPIC",
+   "note": "100"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 101,
+   "symbol": "SILVERKEYPIC",
+   "note": "101"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 102,
+   "symbol": "N_BLANKPIC",
+   "note": "102"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 103,
+   "symbol": "N_0PIC",
+   "note": "103"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 104,
+   "symbol": "N_1PIC",
+   "note": "104"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 105,
+   "symbol": "N_2PIC",
+   "note": "105"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 106,
+   "symbol": "N_3PIC",
+   "note": "106"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 107,
+   "symbol": "N_4PIC",
+   "note": "107"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 108,
+   "symbol": "N_5PIC",
+   "note": "108"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 109,
+   "symbol": "N_6PIC",
+   "note": "109"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 110,
+   "symbol": "N_7PIC",
+   "note": "110"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 111,
+   "symbol": "N_8PIC",
+   "note": "111"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 112,
+   "symbol": "N_9PIC",
+   "note": "112"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 113,
+   "symbol": "FACE1APIC",
+   "note": "113"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 114,
+   "symbol": "FACE1BPIC",
+   "note": "114"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 115,
+   "symbol": "FACE1CPIC",
+   "note": "115"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 116,
+   "symbol": "FACE2APIC",
+   "note": "116"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 117,
+   "symbol": "FACE2BPIC",
+   "note": "117"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 118,
+   "symbol": "FACE2CPIC",
+   "note": "118"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 119,
+   "symbol": "FACE3APIC",
+   "note": "119"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 120,
+   "symbol": "FACE3BPIC",
+   "note": "120"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 121,
+   "symbol": "FACE3CPIC",
+   "note": "121"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 122,
+   "symbol": "FACE4APIC",
+   "note": "122"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 123,
+   "symbol": "FACE4BPIC",
+   "note": "123"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 124,
+   "symbol": "FACE4CPIC",
+   "note": "124"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 125,
+   "symbol": "FACE5APIC",
+   "note": "125"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 126,
+   "symbol": "FACE5BPIC",
+   "note": "126"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 127,
+   "symbol": "FACE5CPIC",
+   "note": "127"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 128,
+   "symbol": "FACE6APIC",
+   "note": "128"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 129,
+   "symbol": "FACE6BPIC",
+   "note": "129"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 130,
+   "symbol": "FACE6CPIC",
+   "note": "130"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 131,
+   "symbol": "FACE7APIC",
+   "note": "131"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 132,
+   "symbol": "FACE7BPIC",
+   "note": "132"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 133,
+   "symbol": "FACE7CPIC",
+   "note": "133"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 134,
+   "symbol": "FACE8APIC",
+   "note": "134"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 135,
+   "symbol": "GOTGATLINGPIC",
+   "note": "135"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 136,
+   "symbol": "MUTANTBJPIC",
+   "note": "136"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 137,
+   "symbol": "PAUSEDPIC",
+   "note": "137"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 138,
+   "symbol": "GETPSYCHEDPIC",
+   "note": "138"
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 554,
+   "symbol": "ORDERSCREEN",
+   "note": ""
+  },
+  {
+   "set": "WL1",
+   "kind": "vga",
+   "id": 555,
+   "symbol": "ERRORSCREEN",
+   "note": "555"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 3,
+   "symbol": "C_BACKDROPPIC",
+   "note": ""
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 4,
+   "symbol": "C_MOUSELBACKPIC",
+   "note": "4"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 5,
+   "symbol": "C_CURSOR1PIC",
+   "note": "5"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 6,
+   "symbol": "C_CURSOR2PIC",
+   "note": "6"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 7,
+   "symbol": "C_NOTSELECTEDPIC",
+   "note": "7"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 8,
+   "symbol": "C_SELECTEDPIC",
+   "note": "8"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 9,
+   "symbol": "C_CUSTOMIZEPIC",
+   "note": "9"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 10,
+   "symbol": "C_JOY1PIC",
+   "note": "10"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 11,
+   "symbol": "C_JOY2PIC",
+   "note": "11"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 12,
+   "symbol": "C_MOUSEPIC",
+   "note": "12"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 13,
+   "symbol": "C_JOYSTICKPIC",
+   "note": "13"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 14,
+   "symbol": "C_KEYBOARDPIC",
+   "note": "14"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 15,
+   "symbol": "C_CONTROLPIC",
+   "note": "15"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 16,
+   "symbol": "C_OPTIONSPIC",
+   "note": "16"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 17,
+   "symbol": "C_FXTITLEPIC",
+   "note": "17"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 18,
+   "symbol": "C_DIGITITLEPIC",
+   "note": "18"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 19,
+   "symbol": "C_MUSICTITLEPIC",
+   "note": "19"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 20,
+   "symbol": "C_HOWTOUGHPIC",
+   "note": "20"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 21,
+   "symbol": "C_BABYMODEPIC",
+   "note": "21"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 22,
+   "symbol": "C_EASYPIC",
+   "note": "22"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 23,
+   "symbol": "C_NORMALPIC",
+   "note": "23"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 24,
+   "symbol": "C_HARDPIC",
+   "note": "24"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 25,
+   "symbol": "C_DISKLOADING1PIC",
+   "note": "25"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 26,
+   "symbol": "C_DISKLOADING2PIC",
+   "note": "26"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 27,
+   "symbol": "C_LOADGAMEPIC",
+   "note": "27"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 28,
+   "symbol": "C_SAVEGAMEPIC",
+   "note": "28"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 29,
+   "symbol": "HIGHSCORESPIC",
+   "note": "29"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 30,
+   "symbol": "C_WONSPEARPIC",
+   "note": "30"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 31,
+   "symbol": "BJCOLLAPSE1PIC",
+   "note": "31"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 32,
+   "symbol": "BJCOLLAPSE2PIC",
+   "note": "32"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 33,
+   "symbol": "BJCOLLAPSE3PIC",
+   "note": "33"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 34,
+   "symbol": "BJCOLLAPSE4PIC",
+   "note": "34"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 35,
+   "symbol": "ENDPICPIC",
+   "note": "35"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 36,
+   "symbol": "L_GUYPIC",
+   "note": "36"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 37,
+   "symbol": "L_COLONPIC",
+   "note": "37"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 38,
+   "symbol": "L_NUM0PIC",
+   "note": "38"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 39,
+   "symbol": "L_NUM1PIC",
+   "note": "39"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 40,
+   "symbol": "L_NUM2PIC",
+   "note": "40"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 41,
+   "symbol": "L_NUM3PIC",
+   "note": "41"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 42,
+   "symbol": "L_NUM4PIC",
+   "note": "42"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 43,
+   "symbol": "L_NUM5PIC",
+   "note": "43"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 44,
+   "symbol": "L_NUM6PIC",
+   "note": "44"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 45,
+   "symbol": "L_NUM7PIC",
+   "note": "45"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 46,
+   "symbol": "L_NUM8PIC",
+   "note": "46"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 47,
+   "symbol": "L_NUM9PIC",
+   "note": "47"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 48,
+   "symbol": "L_PERCENTPIC",
+   "note": "48"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 49,
+   "symbol": "L_APIC",
+   "note": "49"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 50,
+   "symbol": "L_BPIC",
+   "note": "50"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 51,
+   "symbol": "L_CPIC",
+   "note": "51"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 52,
+   "symbol": "L_DPIC",
+   "note": "52"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 53,
+   "symbol": "L_EPIC",
+   "note": "53"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 54,
+   "symbol": "L_FPIC",
+   "note": "54"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 55,
+   "symbol": "L_GPIC",
+   "note": "55"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 56,
+   "symbol": "L_HPIC",
+   "note": "56"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 57,
+   "symbol": "L_IPIC",
+   "note": "57"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 58,
+   "symbol": "L_JPIC",
+   "note": "58"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 59,
+   "symbol": "L_KPIC",
+   "note": "59"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 60,
+   "symbol": "L_LPIC",
+   "note": "60"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 61,
+   "symbol": "L_MPIC",
+   "note": "61"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 62,
+   "symbol": "L_NPIC",
+   "note": "62"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 63,
+   "symbol": "L_OPIC",
+   "note": "63"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 64,
+   "symbol": "L_PPIC",
+   "note": "64"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 65,
+   "symbol": "L_QPIC",
+   "note": "65"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 66,
+   "symbol": "L_RPIC",
+   "note": "66"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 67,
+   "symbol": "L_SPIC",
+   "note": "67"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 68,
+   "symbol": "L_TPIC",
+   "note": "68"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 69,
+   "symbol": "L_UPIC",
+   "note": "69"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 70,
+   "symbol": "L_VPIC",
+   "note": "70"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 71,
+   "symbol": "L_WPIC",
+   "note": "71"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 72,
+   "symbol": "L_XPIC",
+   "note": "72"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 73,
+   "symbol": "L_YPIC",
+   "note": "73"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 74,
+   "symbol": "L_ZPIC",
+   "note": "74"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 75,
+   "symbol": "L_EXPOINTPIC",
+   "note": "75"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 76,
+   "symbol": "L_APOSTROPHEPIC",
+   "note": "76"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 77,
+   "symbol": "L_GUY2PIC",
+   "note": "77"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 78,
+   "symbol": "L_BJWINSPIC",
+   "note": "78"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 79,
+   "symbol": "TITLE1PIC",
+   "note": "79"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 80,
+   "symbol": "TITLE2PIC",
+   "note": "80"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 81,
+   "symbol": "ENDSCREEN11PIC",
+   "note": "81"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 82,
+   "symbol": "ENDSCREEN12PIC",
+   "note": "82"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 83,
+   "symbol": "ENDSCREEN3PIC",
+   "note": "83"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 84,
+   "symbol": "ENDSCREEN4PIC",
+   "note": "84"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 85,
+   "symbol": "ENDSCREEN5PIC",
+   "note": "85"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 86,
+   "symbol": "ENDSCREEN6PIC",
+   "note": "86"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 87,
+   "symbol": "ENDSCREEN7PIC",
+   "note": "87"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 88,
+   "symbol": "ENDSCREEN8PIC",
+   "note": "88"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 89,
+   "symbol": "ENDSCREEN9PIC",
+   "note": "89"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 90,
+   "symbol": "STATUSBARPIC",
+   "note": "90"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 91,
+   "symbol": "PG13PIC",
+   "note": "91"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 92,
+   "symbol": "CREDITSPIC",
+   "note": "92"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 93,
+   "symbol": "IDGUYS1PIC",
+   "note": "93"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 94,
+   "symbol": "IDGUYS2PIC",
+   "note": "94"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 95,
+   "symbol": "COPYPROTTOPPIC",
+   "note": "95"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 96,
+   "symbol": "COPYPROTBOXPIC",
+   "note": "96"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 97,
+   "symbol": "BOSSPIC1PIC",
+   "note": "97"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 98,
+   "symbol": "BOSSPIC2PIC",
+   "note": "98"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 99,
+   "symbol": "BOSSPIC3PIC",
+   "note": "99"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 100,
+   "symbol": "BOSSPIC4PIC",
+   "note": "100"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 101,
+   "symbol": "KNIFEPIC",
+   "note": "101"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 102,
+   "symbol": "GUNPIC",
+   "note": "102"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 103,
+   "symbol": "MACHINEGUNPIC",
+   "note": "103"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 104,
+   "symbol": "GATLINGGUNPIC",
+   "note": "104"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 105,
+   "symbol": "NOKEYPIC",
+   "note": "105"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 106,
+   "symbol": "GOLDKEYPIC",
+   "note": "106"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 107,
+   "symbol": "SILVERKEYPIC",
+   "note": "107"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 108,
+   "symbol": "N_BLANKPIC",
+   "note": "108"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 109,
+   "symbol": "N_0PIC",
+   "note": "109"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 110,
+   "symbol": "N_1PIC",
+   "note": "110"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 111,
+   "symbol": "N_2PIC",
+   "note": "111"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 112,
+   "symbol": "N_3PIC",
+   "note": "112"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 113,
+   "symbol": "N_4PIC",
+   "note": "113"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 114,
+   "symbol": "N_5PIC",
+   "note": "114"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 115,
+   "symbol": "N_6PIC",
+   "note": "115"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 116,
+   "symbol": "N_7PIC",
+   "note": "116"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 117,
+   "symbol": "N_8PIC",
+   "note": "117"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 118,
+   "symbol": "N_9PIC",
+   "note": "118"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 119,
+   "symbol": "FACE1APIC",
+   "note": "119"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 120,
+   "symbol": "FACE1BPIC",
+   "note": "120"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 121,
+   "symbol": "FACE1CPIC",
+   "note": "121"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 122,
+   "symbol": "FACE2APIC",
+   "note": "122"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 123,
+   "symbol": "FACE2BPIC",
+   "note": "123"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 124,
+   "symbol": "FACE2CPIC",
+   "note": "124"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 125,
+   "symbol": "FACE3APIC",
+   "note": "125"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 126,
+   "symbol": "FACE3BPIC",
+   "note": "126"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 127,
+   "symbol": "FACE3CPIC",
+   "note": "127"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 128,
+   "symbol": "FACE4APIC",
+   "note": "128"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 129,
+   "symbol": "FACE4BPIC",
+   "note": "129"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 130,
+   "symbol": "FACE4CPIC",
+   "note": "130"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 131,
+   "symbol": "FACE5APIC",
+   "note": "131"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 132,
+   "symbol": "FACE5BPIC",
+   "note": "132"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 133,
+   "symbol": "FACE5CPIC",
+   "note": "133"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 134,
+   "symbol": "FACE6APIC",
+   "note": "134"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 135,
+   "symbol": "FACE6BPIC",
+   "note": "135"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 136,
+   "symbol": "FACE6CPIC",
+   "note": "136"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 137,
+   "symbol": "FACE7APIC",
+   "note": "137"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 138,
+   "symbol": "FACE7BPIC",
+   "note": "138"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 139,
+   "symbol": "FACE7CPIC",
+   "note": "139"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 140,
+   "symbol": "FACE8APIC",
+   "note": "140"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 141,
+   "symbol": "GOTGATLINGPIC",
+   "note": "141"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 142,
+   "symbol": "GODMODEFACE1PIC",
+   "note": "142"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 143,
+   "symbol": "GODMODEFACE2PIC",
+   "note": "143"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 144,
+   "symbol": "GODMODEFACE3PIC",
+   "note": "144"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 145,
+   "symbol": "BJWAITING1PIC",
+   "note": "145"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 146,
+   "symbol": "BJWAITING2PIC",
+   "note": "146"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 147,
+   "symbol": "BJOUCHPIC",
+   "note": "147"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 148,
+   "symbol": "PAUSEDPIC",
+   "note": "148"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 149,
+   "symbol": "GETPSYCHEDPIC",
+   "note": "149"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 151,
+   "symbol": "ORDERSCREEN",
+   "note": ""
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 152,
+   "symbol": "ERRORSCREEN",
+   "note": "152"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 153,
+   "symbol": "TITLEPALETTE",
+   "note": "153"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 154,
+   "symbol": "END1PALETTE",
+   "note": "154"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 155,
+   "symbol": "END2PALETTE",
+   "note": "155"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 156,
+   "symbol": "END3PALETTE",
+   "note": "156"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 157,
+   "symbol": "END4PALETTE",
+   "note": "157"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 158,
+   "symbol": "END5PALETTE",
+   "note": "158"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 159,
+   "symbol": "END6PALETTE",
+   "note": "159"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 160,
+   "symbol": "END7PALETTE",
+   "note": "160"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 161,
+   "symbol": "END8PALETTE",
+   "note": "161"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 162,
+   "symbol": "END9PALETTE",
+   "note": "162"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 163,
+   "symbol": "IDGUYSPALETTE",
+   "note": "163"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 164,
+   "symbol": "T_DEMO0",
+   "note": "164"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 165,
+   "symbol": "T_DEMO1",
+   "note": "165"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 166,
+   "symbol": "T_DEMO2",
+   "note": "166"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 167,
+   "symbol": "T_DEMO3",
+   "note": "167"
+  },
+  {
+   "set": "SOD",
+   "kind": "vga",
+   "id": 168,
+   "symbol": "T_ENDART1",
+   "note": "168"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 3,
+   "symbol": "C_BACKDROPPIC",
+   "note": ""
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 4,
+   "symbol": "C_MOUSELBACKPIC",
+   "note": "4"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 5,
+   "symbol": "C_CURSOR1PIC",
+   "note": "5"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 6,
+   "symbol": "C_CURSOR2PIC",
+   "note": "6"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 7,
+   "symbol": "C_NOTSELECTEDPIC",
+   "note": "7"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 8,
+   "symbol": "C_SELECTEDPIC",
+   "note": "8"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 9,
+   "symbol": "C_CUSTOMIZEPIC",
+   "note": "9"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 10,
+   "symbol": "C_JOY1PIC",
+   "note": "10"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 11,
+   "symbol": "C_JOY2PIC",
+   "note": "11"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 12,
+   "symbol": "C_MOUSEPIC",
+   "note": "12"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 13,
+   "symbol": "C_JOYSTICKPIC",
+   "note": "13"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 14,
+   "symbol": "C_KEYBOARDPIC",
+   "note": "14"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 15,
+   "symbol": "C_CONTROLPIC",
+   "note": "15"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 16,
+   "symbol": "C_OPTIONSPIC",
+   "note": "16"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 17,
+   "symbol": "C_FXTITLEPIC",
+   "note": "17"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 18,
+   "symbol": "C_DIGITITLEPIC",
+   "note": "18"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 19,
+   "symbol": "C_MUSICTITLEPIC",
+   "note": "19"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 20,
+   "symbol": "C_HOWTOUGHPIC",
+   "note": "20"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 21,
+   "symbol": "C_BABYMODEPIC",
+   "note": "21"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 22,
+   "symbol": "C_EASYPIC",
+   "note": "22"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 23,
+   "symbol": "C_NORMALPIC",
+   "note": "23"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 24,
+   "symbol": "C_HARDPIC",
+   "note": "24"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 25,
+   "symbol": "C_DISKLOADING1PIC",
+   "note": "25"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 26,
+   "symbol": "C_DISKLOADING2PIC",
+   "note": "26"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 27,
+   "symbol": "C_LOADGAMEPIC",
+   "note": "27"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 28,
+   "symbol": "C_SAVEGAMEPIC",
+   "note": "28"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 29,
+   "symbol": "HIGHSCORESPIC",
+   "note": "29"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 30,
+   "symbol": "C_WONSPEARPIC",
+   "note": "30"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 31,
+   "symbol": "L_GUYPIC",
+   "note": "31"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 32,
+   "symbol": "L_COLONPIC",
+   "note": "32"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 33,
+   "symbol": "L_NUM0PIC",
+   "note": "33"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 34,
+   "symbol": "L_NUM1PIC",
+   "note": "34"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 35,
+   "symbol": "L_NUM2PIC",
+   "note": "35"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 36,
+   "symbol": "L_NUM3PIC",
+   "note": "36"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 37,
+   "symbol": "L_NUM4PIC",
+   "note": "37"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 38,
+   "symbol": "L_NUM5PIC",
+   "note": "38"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 39,
+   "symbol": "L_NUM6PIC",
+   "note": "39"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 40,
+   "symbol": "L_NUM7PIC",
+   "note": "40"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 41,
+   "symbol": "L_NUM8PIC",
+   "note": "41"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 42,
+   "symbol": "L_NUM9PIC",
+   "note": "42"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 43,
+   "symbol": "L_PERCENTPIC",
+   "note": "43"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 44,
+   "symbol": "L_APIC",
+   "note": "44"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 45,
+   "symbol": "L_BPIC",
+   "note": "45"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 46,
+   "symbol": "L_CPIC",
+   "note": "46"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 47,
+   "symbol": "L_DPIC",
+   "note": "47"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 48,
+   "symbol": "L_EPIC",
+   "note": "48"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 49,
+   "symbol": "L_FPIC",
+   "note": "49"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 50,
+   "symbol": "L_GPIC",
+   "note": "50"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 51,
+   "symbol": "L_HPIC",
+   "note": "51"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 52,
+   "symbol": "L_IPIC",
+   "note": "52"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 53,
+   "symbol": "L_JPIC",
+   "note": "53"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 54,
+   "symbol": "L_KPIC",
+   "note": "54"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 55,
+   "symbol": "L_LPIC",
+   "note": "55"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 56,
+   "symbol": "L_MPIC",
+   "note": "56"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 57,
+   "symbol": "L_NPIC",
+   "note": "57"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 58,
+   "symbol": "L_OPIC",
+   "note": "58"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 59,
+   "symbol": "L_PPIC",
+   "note": "59"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 60,
+   "symbol": "L_QPIC",
+   "note": "60"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 61,
+   "symbol": "L_RPIC",
+   "note": "61"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 62,
+   "symbol": "L_SPIC",
+   "note": "62"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 63,
+   "symbol": "L_TPIC",
+   "note": "63"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 64,
+   "symbol": "L_UPIC",
+   "note": "64"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 65,
+   "symbol": "L_VPIC",
+   "note": "65"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 66,
+   "symbol": "L_WPIC",
+   "note": "66"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 67,
+   "symbol": "L_XPIC",
+   "note": "67"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 68,
+   "symbol": "L_YPIC",
+   "note": "68"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 69,
+   "symbol": "L_ZPIC",
+   "note": "69"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 70,
+   "symbol": "L_EXPOINTPIC",
+   "note": "70"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 71,
+   "symbol": "L_APOSTROPHEPIC",
+   "note": "71"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 72,
+   "symbol": "L_GUY2PIC",
+   "note": "72"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 73,
+   "symbol": "L_BJWINSPIC",
+   "note": "73"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 74,
+   "symbol": "TITLE1PIC",
+   "note": "74"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 75,
+   "symbol": "TITLE2PIC",
+   "note": "75"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 76,
+   "symbol": "STATUSBARPIC",
+   "note": "76"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 77,
+   "symbol": "PG13PIC",
+   "note": "77"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 78,
+   "symbol": "CREDITSPIC",
+   "note": "78"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 79,
+   "symbol": "KNIFEPIC",
+   "note": "79"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 80,
+   "symbol": "GUNPIC",
+   "note": "80"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 81,
+   "symbol": "MACHINEGUNPIC",
+   "note": "81"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 82,
+   "symbol": "GATLINGGUNPIC",
+   "note": "82"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 83,
+   "symbol": "NOKEYPIC",
+   "note": "83"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 84,
+   "symbol": "GOLDKEYPIC",
+   "note": "84"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 85,
+   "symbol": "SILVERKEYPIC",
+   "note": "85"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 86,
+   "symbol": "N_BLANKPIC",
+   "note": "86"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 87,
+   "symbol": "N_0PIC",
+   "note": "87"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 88,
+   "symbol": "N_1PIC",
+   "note": "88"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 89,
+   "symbol": "N_2PIC",
+   "note": "89"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 90,
+   "symbol": "N_3PIC",
+   "note": "90"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 91,
+   "symbol": "N_4PIC",
+   "note": "91"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 92,
+   "symbol": "N_5PIC",
+   "note": "92"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 93,
+   "symbol": "N_6PIC",
+   "note": "93"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 94,
+   "symbol": "N_7PIC",
+   "note": "94"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 95,
+   "symbol": "N_8PIC",
+   "note": "95"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 96,
+   "symbol": "N_9PIC",
+   "note": "96"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 97,
+   "symbol": "FACE1APIC",
+   "note": "97"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 98,
+   "symbol": "FACE1BPIC",
+   "note": "98"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 99,
+   "symbol": "FACE1CPIC",
+   "note": "99"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 100,
+   "symbol": "FACE2APIC",
+   "note": "100"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 101,
+   "symbol": "FACE2BPIC",
+   "note": "101"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 102,
+   "symbol": "FACE2CPIC",
+   "note": "102"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 103,
+   "symbol": "FACE3APIC",
+   "note": "103"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 104,
+   "symbol": "FACE3BPIC",
+   "note": "104"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 105,
+   "symbol": "FACE3CPIC",
+   "note": "105"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 106,
+   "symbol": "FACE4APIC",
+   "note": "106"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 107,
+   "symbol": "FACE4BPIC",
+   "note": "107"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 108,
+   "symbol": "FACE4CPIC",
+   "note": "108"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 109,
+   "symbol": "FACE5APIC",
+   "note": "109"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 110,
+   "symbol": "FACE5BPIC",
+   "note": "110"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 111,
+   "symbol": "FACE5CPIC",
+   "note": "111"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 112,
+   "symbol": "FACE6APIC",
+   "note": "112"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 113,
+   "symbol": "FACE6BPIC",
+   "note": "113"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 114,
+   "symbol": "FACE6CPIC",
+   "note": "114"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 115,
+   "symbol": "FACE7APIC",
+   "note": "115"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 116,
+   "symbol": "FACE7BPIC",
+   "note": "116"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 117,
+   "symbol": "FACE7CPIC",
+   "note": "117"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 118,
+   "symbol": "FACE8APIC",
+   "note": "118"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 119,
+   "symbol": "GOTGATLINGPIC",
+   "note": "119"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 120,
+   "symbol": "GODMODEFACE1PIC",
+   "note": "120"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 121,
+   "symbol": "GODMODEFACE2PIC",
+   "note": "121"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 122,
+   "symbol": "GODMODEFACE3PIC",
+   "note": "122"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 123,
+   "symbol": "BJWAITING1PIC",
+   "note": "123"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 124,
+   "symbol": "BJWAITING2PIC",
+   "note": "124"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 125,
+   "symbol": "BJOUCHPIC",
+   "note": "125"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 126,
+   "symbol": "PAUSEDPIC",
+   "note": "126"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 127,
+   "symbol": "GETPSYCHEDPIC",
+   "note": "127"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 129,
+   "symbol": "ORDERSCREEN",
+   "note": ""
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 130,
+   "symbol": "ERRORSCREEN",
+   "note": "130"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 131,
+   "symbol": "TITLEPALETTE",
+   "note": "131"
+  },
+  {
+   "set": "SDM",
+   "kind": "vga",
+   "id": 132,
+   "symbol": "T_DEMO0",
+   "note": "132"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 3,
+   "symbol": "H_BJPIC",
+   "note": ""
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 4,
+   "symbol": "H_CASTLEPIC",
+   "note": "4"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 5,
+   "symbol": "H_KEYBOARDPIC",
+   "note": "5"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 6,
+   "symbol": "H_JOYPIC",
+   "note": "6"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 7,
+   "symbol": "H_MOUSEPIC",
+   "note": "7"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 8,
+   "symbol": "H_BOTHPIC",
+   "note": "8"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 9,
+   "symbol": "H_GAMEPADPIC",
+   "note": "9"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 10,
+   "symbol": "H_HEALPIC",
+   "note": "10"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 11,
+   "symbol": "H_TREASUREPIC",
+   "note": "11"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 12,
+   "symbol": "H_GUNPIC",
+   "note": "12"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 13,
+   "symbol": "H_KEYPIC",
+   "note": "13"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 14,
+   "symbol": "H_BLAZEPIC",
+   "note": "14"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 15,
+   "symbol": "H_WEAPON1234PIC",
+   "note": "15"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 16,
+   "symbol": "H_WOLFLOGOPIC",
+   "note": "16"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 17,
+   "symbol": "H_VISAPIC",
+   "note": "17"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 18,
+   "symbol": "H_MCPIC",
+   "note": "18"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 19,
+   "symbol": "H_IDLOGOPIC",
+   "note": "19"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 20,
+   "symbol": "H_FAXPIC",
+   "note": "20"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 21,
+   "symbol": "H_GALACTIXPIC",
+   "note": "21"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 22,
+   "symbol": "H_FGODMOMPIC",
+   "note": "22"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 23,
+   "symbol": "H_AUSTRALIAPIC",
+   "note": "23"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 24,
+   "symbol": "H_CANADAPIC",
+   "note": "24"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 25,
+   "symbol": "H_UKPIC",
+   "note": "25"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 26,
+   "symbol": "C_OPTIONSPIC",
+   "note": "26"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 27,
+   "symbol": "C_CURSOR1PIC",
+   "note": "27"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 28,
+   "symbol": "C_CURSOR2PIC",
+   "note": "28"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 29,
+   "symbol": "C_NOTSELECTEDPIC",
+   "note": "29"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 30,
+   "symbol": "C_SELECTEDPIC",
+   "note": "30"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 31,
+   "symbol": "C_FXTITLEPIC",
+   "note": "31"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 32,
+   "symbol": "C_DIGITITLEPIC",
+   "note": "32"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 33,
+   "symbol": "C_MUSICTITLEPIC",
+   "note": "33"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 34,
+   "symbol": "C_MOUSELBACKPIC",
+   "note": "34"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 35,
+   "symbol": "C_BABYMODEPIC",
+   "note": "35"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 36,
+   "symbol": "C_EASYPIC",
+   "note": "36"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 37,
+   "symbol": "C_NORMALPIC",
+   "note": "37"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 38,
+   "symbol": "C_HARDPIC",
+   "note": "38"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 39,
+   "symbol": "C_LOADSAVEDISKPIC",
+   "note": "39"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 40,
+   "symbol": "C_DISKLOADING1PIC",
+   "note": "40"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 41,
+   "symbol": "C_DISKLOADING2PIC",
+   "note": "41"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 42,
+   "symbol": "C_CONTROLPIC",
+   "note": "42"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 43,
+   "symbol": "C_CUSTOMIZEPIC",
+   "note": "43"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 44,
+   "symbol": "C_LOADGAMEPIC",
+   "note": "44"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 45,
+   "symbol": "C_SAVEGAMEPIC",
+   "note": "45"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 46,
+   "symbol": "C_EPISODE1PIC",
+   "note": "46"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 47,
+   "symbol": "C_EPISODE2PIC",
+   "note": "47"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 48,
+   "symbol": "C_EPISODE3PIC",
+   "note": "48"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 49,
+   "symbol": "C_EPISODE4PIC",
+   "note": "49"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 50,
+   "symbol": "C_EPISODE5PIC",
+   "note": "50"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 51,
+   "symbol": "C_EPISODE6PIC",
+   "note": "51"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 52,
+   "symbol": "C_CODEPIC",
+   "note": "52"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 53,
+   "symbol": "L_GUYPIC",
+   "note": "53"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 54,
+   "symbol": "L_COLONPIC",
+   "note": "54"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 55,
+   "symbol": "L_NUM0PIC",
+   "note": "55"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 56,
+   "symbol": "L_NUM1PIC",
+   "note": "56"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 57,
+   "symbol": "L_NUM2PIC",
+   "note": "57"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 58,
+   "symbol": "L_NUM3PIC",
+   "note": "58"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 59,
+   "symbol": "L_NUM4PIC",
+   "note": "59"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 60,
+   "symbol": "L_NUM5PIC",
+   "note": "60"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 61,
+   "symbol": "L_NUM6PIC",
+   "note": "61"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 62,
+   "symbol": "L_NUM7PIC",
+   "note": "62"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 63,
+   "symbol": "L_NUM8PIC",
+   "note": "63"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 64,
+   "symbol": "L_NUM9PIC",
+   "note": "64"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 65,
+   "symbol": "L_PERCENTPIC",
+   "note": "65"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 66,
+   "symbol": "L_APIC",
+   "note": "66"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 67,
+   "symbol": "L_BPIC",
+   "note": "67"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 68,
+   "symbol": "L_CPIC",
+   "note": "68"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 69,
+   "symbol": "L_DPIC",
+   "note": "69"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 70,
+   "symbol": "L_EPIC",
+   "note": "70"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 71,
+   "symbol": "L_FPIC",
+   "note": "71"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 72,
+   "symbol": "L_GPIC",
+   "note": "72"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 73,
+   "symbol": "L_HPIC",
+   "note": "73"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 74,
+   "symbol": "L_IPIC",
+   "note": "74"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 75,
+   "symbol": "L_JPIC",
+   "note": "75"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 76,
+   "symbol": "L_KPIC",
+   "note": "76"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 77,
+   "symbol": "L_LPIC",
+   "note": "77"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 78,
+   "symbol": "L_MPIC",
+   "note": "78"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 79,
+   "symbol": "L_NPIC",
+   "note": "79"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 80,
+   "symbol": "L_OPIC",
+   "note": "80"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 81,
+   "symbol": "L_PPIC",
+   "note": "81"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 82,
+   "symbol": "L_QPIC",
+   "note": "82"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 83,
+   "symbol": "L_RPIC",
+   "note": "83"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 84,
+   "symbol": "L_SPIC",
+   "note": "84"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 85,
+   "symbol": "L_TPIC",
+   "note": "85"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 86,
+   "symbol": "L_UPIC",
+   "note": "86"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 87,
+   "symbol": "L_VPIC",
+   "note": "87"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 88,
+   "symbol": "L_WPIC",
+   "note": "88"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 89,
+   "symbol": "L_XPIC",
+   "note": "89"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 90,
+   "symbol": "L_YPIC",
+   "note": "90"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 91,
+   "symbol": "L_ZPIC",
+   "note": "91"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 92,
+   "symbol": "L_GUY2PIC",
+   "note": "92"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 93,
+   "symbol": "L_BJWINSPIC",
+   "note": "93"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 94,
+   "symbol": "STATUSBARPIC",
+   "note": "94"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 95,
+   "symbol": "TITLEPIC",
+   "note": "95"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 96,
+   "symbol": "PG13PIC",
+   "note": "96"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 97,
+   "symbol": "CREDITSPIC",
+   "note": "97"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 98,
+   "symbol": "HIGHSCORESPIC",
+   "note": "98"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 99,
+   "symbol": "KNIFEPIC",
+   "note": "99"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 100,
+   "symbol": "GUNPIC",
+   "note": "100"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 101,
+   "symbol": "MACHINEGUNPIC",
+   "note": "101"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 102,
+   "symbol": "GATLINGGUNPIC",
+   "note": "102"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 103,
+   "symbol": "NOKEYPIC",
+   "note": "103"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 104,
+   "symbol": "GOLDKEYPIC",
+   "note": "104"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 105,
+   "symbol": "SILVERKEYPIC",
+   "note": "105"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 106,
+   "symbol": "N_BLANKPIC",
+   "note": "106"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 107,
+   "symbol": "N_0PIC",
+   "note": "107"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 108,
+   "symbol": "N_1PIC",
+   "note": "108"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 109,
+   "symbol": "N_2PIC",
+   "note": "109"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 110,
+   "symbol": "N_3PIC",
+   "note": "110"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 111,
+   "symbol": "N_4PIC",
+   "note": "111"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 112,
+   "symbol": "N_5PIC",
+   "note": "112"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 113,
+   "symbol": "N_6PIC",
+   "note": "113"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 114,
+   "symbol": "N_7PIC",
+   "note": "114"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 115,
+   "symbol": "N_8PIC",
+   "note": "115"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 116,
+   "symbol": "N_9PIC",
+   "note": "116"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 117,
+   "symbol": "FACE1APIC",
+   "note": "117"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 118,
+   "symbol": "FACE1BPIC",
+   "note": "118"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 119,
+   "symbol": "FACE1CPIC",
+   "note": "119"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 120,
+   "symbol": "FACE2APIC",
+   "note": "120"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 121,
+   "symbol": "FACE2BPIC",
+   "note": "121"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 122,
+   "symbol": "FACE2CPIC",
+   "note": "122"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 123,
+   "symbol": "FACE3APIC",
+   "note": "123"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 124,
+   "symbol": "FACE3BPIC",
+   "note": "124"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 125,
+   "symbol": "FACE3CPIC",
+   "note": "125"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 126,
+   "symbol": "FACE4APIC",
+   "note": "126"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 127,
+   "symbol": "FACE4BPIC",
+   "note": "127"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 128,
+   "symbol": "FACE4CPIC",
+   "note": "128"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 129,
+   "symbol": "FACE5APIC",
+   "note": "129"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 130,
+   "symbol": "FACE5BPIC",
+   "note": "130"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 131,
+   "symbol": "FACE5CPIC",
+   "note": "131"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 132,
+   "symbol": "FACE6APIC",
+   "note": "132"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 133,
+   "symbol": "FACE6BPIC",
+   "note": "133"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 134,
+   "symbol": "FACE6CPIC",
+   "note": "134"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 135,
+   "symbol": "FACE7APIC",
+   "note": "135"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 136,
+   "symbol": "FACE7BPIC",
+   "note": "136"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 137,
+   "symbol": "FACE7CPIC",
+   "note": "137"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 138,
+   "symbol": "FACE8APIC",
+   "note": "138"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 139,
+   "symbol": "GOTGATLINGPIC",
+   "note": "139"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 140,
+   "symbol": "PAUSEDPIC",
+   "note": "140"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 141,
+   "symbol": "GETPSYCHEDPIC",
+   "note": "141"
+  },
+  {
+   "set": "WL1",
+   "kind": "ega",
+   "id": 557,
+   "symbol": "ORDERSCREEN",
+   "note": ""
+  }
+ ],
+ "sounds": [
+  {
+   "set": "WL1",
+   "id": 0,
+   "symbol": "HITWALLSND",
+   "note": "0"
+  },
+  {
+   "set": "WL1",
+   "id": 1,
+   "symbol": "SELECTWPNSND",
+   "note": "1"
+  },
+  {
+   "set": "WL1",
+   "id": 2,
+   "symbol": "SELECTITEMSND",
+   "note": "2"
+  },
+  {
+   "set": "WL1",
+   "id": 3,
+   "symbol": "HEARTBEATSND",
+   "note": "3"
+  },
+  {
+   "set": "WL1",
+   "id": 4,
+   "symbol": "MOVEGUN2SND",
+   "note": "4"
+  },
+  {
+   "set": "WL1",
+   "id": 5,
+   "symbol": "MOVEGUN1SND",
+   "note": "5"
+  },
+  {
+   "set": "WL1",
+   "id": 6,
+   "symbol": "NOWAYSND",
+   "note": "6"
+  },
+  {
+   "set": "WL1",
+   "id": 7,
+   "symbol": "NAZIHITPLAYERSND",
+   "note": "7"
+  },
+  {
+   "set": "WL1",
+   "id": 8,
+   "symbol": "NAZIMISSSND",
+   "note": "8"
+  },
+  {
+   "set": "WL1",
+   "id": 9,
+   "symbol": "PLAYERDEATHSND",
+   "note": "9"
+  },
+  {
+   "set": "WL1",
+   "id": 10,
+   "symbol": "DOGDEATHSND",
+   "note": "10"
+  },
+  {
+   "set": "WL1",
+   "id": 11,
+   "symbol": "ATKGATLINGSND",
+   "note": "11"
+  },
+  {
+   "set": "WL1",
+   "id": 12,
+   "symbol": "GETKEYSND",
+   "note": "12"
+  },
+  {
+   "set": "WL1",
+   "id": 13,
+   "symbol": "NOITEMSND",
+   "note": "13"
+  },
+  {
+   "set": "WL1",
+   "id": 14,
+   "symbol": "WALK1SND",
+   "note": "14"
+  },
+  {
+   "set": "WL1",
+   "id": 15,
+   "symbol": "WALK2SND",
+   "note": "15"
+  },
+  {
+   "set": "WL1",
+   "id": 16,
+   "symbol": "TAKEDAMAGESND",
+   "note": "16"
+  },
+  {
+   "set": "WL1",
+   "id": 17,
+   "symbol": "GAMEOVERSND",
+   "note": "17"
+  },
+  {
+   "set": "WL1",
+   "id": 18,
+   "symbol": "OPENDOORSND",
+   "note": "18"
+  },
+  {
+   "set": "WL1",
+   "id": 19,
+   "symbol": "CLOSEDOORSND",
+   "note": "19"
+  },
+  {
+   "set": "WL1",
+   "id": 20,
+   "symbol": "DONOTHINGSND",
+   "note": "20"
+  },
+  {
+   "set": "WL1",
+   "id": 21,
+   "symbol": "HALTSND",
+   "note": "21"
+  },
+  {
+   "set": "WL1",
+   "id": 22,
+   "symbol": "DEATHSCREAM2SND",
+   "note": "22"
+  },
+  {
+   "set": "WL1",
+   "id": 23,
+   "symbol": "ATKKNIFESND",
+   "note": "23"
+  },
+  {
+   "set": "WL1",
+   "id": 24,
+   "symbol": "ATKPISTOLSND",
+   "note": "24"
+  },
+  {
+   "set": "WL1",
+   "id": 25,
+   "symbol": "DEATHSCREAM3SND",
+   "note": "25"
+  },
+  {
+   "set": "WL1",
+   "id": 26,
+   "symbol": "ATKMACHINEGUNSND",
+   "note": "26"
+  },
+  {
+   "set": "WL1",
+   "id": 27,
+   "symbol": "HITENEMYSND",
+   "note": "27"
+  },
+  {
+   "set": "WL1",
+   "id": 28,
+   "symbol": "SHOOTDOORSND",
+   "note": "28"
+  },
+  {
+   "set": "WL1",
+   "id": 29,
+   "symbol": "DEATHSCREAM1SND",
+   "note": "29"
+  },
+  {
+   "set": "WL1",
+   "id": 30,
+   "symbol": "GETMACHINESND",
+   "note": "30"
+  },
+  {
+   "set": "WL1",
+   "id": 31,
+   "symbol": "GETAMMOSND",
+   "note": "31"
+  },
+  {
+   "set": "WL1",
+   "id": 32,
+   "symbol": "SHOOTSND",
+   "note": "32"
+  },
+  {
+   "set": "WL1",
+   "id": 33,
+   "symbol": "HEALTH1SND",
+   "note": "33"
+  },
+  {
+   "set": "WL1",
+   "id": 34,
+   "symbol": "HEALTH2SND",
+   "note": "34"
+  },
+  {
+   "set": "WL1",
+   "id": 35,
+   "symbol": "BONUS1SND",
+   "note": "35"
+  },
+  {
+   "set": "WL1",
+   "id": 36,
+   "symbol": "BONUS2SND",
+   "note": "36"
+  },
+  {
+   "set": "WL1",
+   "id": 37,
+   "symbol": "BONUS3SND",
+   "note": "37"
+  },
+  {
+   "set": "WL1",
+   "id": 38,
+   "symbol": "GETGATLINGSND",
+   "note": "38"
+  },
+  {
+   "set": "WL1",
+   "id": 39,
+   "symbol": "ESCPRESSEDSND",
+   "note": "39"
+  },
+  {
+   "set": "WL1",
+   "id": 40,
+   "symbol": "LEVELDONESND",
+   "note": "40"
+  },
+  {
+   "set": "WL1",
+   "id": 41,
+   "symbol": "DOGBARKSND",
+   "note": "41"
+  },
+  {
+   "set": "WL1",
+   "id": 42,
+   "symbol": "ENDBONUS1SND",
+   "note": "42"
+  },
+  {
+   "set": "WL1",
+   "id": 43,
+   "symbol": "ENDBONUS2SND",
+   "note": "43"
+  },
+  {
+   "set": "WL1",
+   "id": 44,
+   "symbol": "BONUS1UPSND",
+   "note": "44"
+  },
+  {
+   "set": "WL1",
+   "id": 45,
+   "symbol": "BONUS4SND",
+   "note": "45"
+  },
+  {
+   "set": "WL1",
+   "id": 46,
+   "symbol": "PUSHWALLSND",
+   "note": "46"
+  },
+  {
+   "set": "WL1",
+   "id": 47,
+   "symbol": "NOBONUSSND",
+   "note": "47"
+  },
+  {
+   "set": "WL1",
+   "id": 48,
+   "symbol": "PERCENT100SND",
+   "note": "48"
+  },
+  {
+   "set": "WL1",
+   "id": 49,
+   "symbol": "BOSSACTIVESND",
+   "note": "49"
+  },
+  {
+   "set": "WL1",
+   "id": 50,
+   "symbol": "BOSSDIESSND",
+   "note": "50"
+  },
+  {
+   "set": "WL1",
+   "id": 51,
+   "symbol": "SCHUTZADSND",
+   "note": "51"
+  },
+  {
+   "set": "WL1",
+   "id": 52,
+   "symbol": "AHHHGSND",
+   "note": "52"
+  },
+  {
+   "set": "WL1",
+   "id": 53,
+   "symbol": "DIESND",
+   "note": "53"
+  },
+  {
+   "set": "WL1",
+   "id": 54,
+   "symbol": "EVASND",
+   "note": "54"
+  },
+  {
+   "set": "WL1",
+   "id": 55,
+   "symbol": "GUTENTAGSND",
+   "note": "55"
+  },
+  {
+   "set": "WL1",
+   "id": 56,
+   "symbol": "LEBENSND",
+   "note": "56"
+  },
+  {
+   "set": "WL1",
+   "id": 57,
+   "symbol": "MUTTISND",
+   "note": "57"
+  },
+  {
+   "set": "WL1",
+   "id": 58,
+   "symbol": "NAZIFIRESND",
+   "note": "58"
+  },
+  {
+   "set": "WL1",
+   "id": 59,
+   "symbol": "BOSSFIRESND",
+   "note": "59"
+  },
+  {
+   "set": "WL1",
+   "id": 60,
+   "symbol": "SSFIRESND",
+   "note": "60"
+  },
+  {
+   "set": "WL1",
+   "id": 61,
+   "symbol": "SLURPIESND",
+   "note": "61"
+  },
+  {
+   "set": "WL1",
+   "id": 62,
+   "symbol": "TOT_HUNDSND",
+   "note": "62"
+  },
+  {
+   "set": "WL1",
+   "id": 63,
+   "symbol": "MEINGOTTSND",
+   "note": "63"
+  },
+  {
+   "set": "WL1",
+   "id": 64,
+   "symbol": "SCHABBSHASND",
+   "note": "64"
+  },
+  {
+   "set": "WL1",
+   "id": 65,
+   "symbol": "HILTERHASND",
+   "note": "65"
+  },
+  {
+   "set": "WL1",
+   "id": 66,
+   "symbol": "SPIONSND",
+   "note": "66"
+  },
+  {
+   "set": "WL1",
+   "id": 67,
+   "symbol": "NEINSOVASSND",
+   "note": "67"
+  },
+  {
+   "set": "WL1",
+   "id": 68,
+   "symbol": "DOGATTACKSND",
+   "note": "68"
+  },
+  {
+   "set": "WL6",
+   "id": 0,
+   "symbol": "HITWALLSND",
+   "note": "0"
+  },
+  {
+   "set": "WL6",
+   "id": 1,
+   "symbol": "SELECTWPNSND",
+   "note": "1"
+  },
+  {
+   "set": "WL6",
+   "id": 2,
+   "symbol": "SELECTITEMSND",
+   "note": "2"
+  },
+  {
+   "set": "WL6",
+   "id": 3,
+   "symbol": "HEARTBEATSND",
+   "note": "3"
+  },
+  {
+   "set": "WL6",
+   "id": 4,
+   "symbol": "MOVEGUN2SND",
+   "note": "4"
+  },
+  {
+   "set": "WL6",
+   "id": 5,
+   "symbol": "MOVEGUN1SND",
+   "note": "5"
+  },
+  {
+   "set": "WL6",
+   "id": 6,
+   "symbol": "NOWAYSND",
+   "note": "6"
+  },
+  {
+   "set": "WL6",
+   "id": 7,
+   "symbol": "NAZIHITPLAYERSND",
+   "note": "7"
+  },
+  {
+   "set": "WL6",
+   "id": 8,
+   "symbol": "SCHABBSTHROWSND",
+   "note": "8"
+  },
+  {
+   "set": "WL6",
+   "id": 9,
+   "symbol": "PLAYERDEATHSND",
+   "note": "9"
+  },
+  {
+   "set": "WL6",
+   "id": 10,
+   "symbol": "DOGDEATHSND",
+   "note": "10"
+  },
+  {
+   "set": "WL6",
+   "id": 11,
+   "symbol": "ATKGATLINGSND",
+   "note": "11"
+  },
+  {
+   "set": "WL6",
+   "id": 12,
+   "symbol": "GETKEYSND",
+   "note": "12"
+  },
+  {
+   "set": "WL6",
+   "id": 13,
+   "symbol": "NOITEMSND",
+   "note": "13"
+  },
+  {
+   "set": "WL6",
+   "id": 14,
+   "symbol": "WALK1SND",
+   "note": "14"
+  },
+  {
+   "set": "WL6",
+   "id": 15,
+   "symbol": "WALK2SND",
+   "note": "15"
+  },
+  {
+   "set": "WL6",
+   "id": 16,
+   "symbol": "TAKEDAMAGESND",
+   "note": "16"
+  },
+  {
+   "set": "WL6",
+   "id": 17,
+   "symbol": "GAMEOVERSND",
+   "note": "17"
+  },
+  {
+   "set": "WL6",
+   "id": 18,
+   "symbol": "OPENDOORSND",
+   "note": "18"
+  },
+  {
+   "set": "WL6",
+   "id": 19,
+   "symbol": "CLOSEDOORSND",
+   "note": "19"
+  },
+  {
+   "set": "WL6",
+   "id": 20,
+   "symbol": "DONOTHINGSND",
+   "note": "20"
+  },
+  {
+   "set": "WL6",
+   "id": 21,
+   "symbol": "HALTSND",
+   "note": "21"
+  },
+  {
+   "set": "WL6",
+   "id": 22,
+   "symbol": "DEATHSCREAM2SND",
+   "note": "22"
+  },
+  {
+   "set": "WL6",
+   "id": 23,
+   "symbol": "ATKKNIFESND",
+   "note": "23"
+  },
+  {
+   "set": "WL6",
+   "id": 24,
+   "symbol": "ATKPISTOLSND",
+   "note": "24"
+  },
+  {
+   "set": "WL6",
+   "id": 25,
+   "symbol": "DEATHSCREAM3SND",
+   "note": "25"
+  },
+  {
+   "set": "WL6",
+   "id": 26,
+   "symbol": "ATKMACHINEGUNSND",
+   "note": "26"
+  },
+  {
+   "set": "WL6",
+   "id": 27,
+   "symbol": "HITENEMYSND",
+   "note": "27"
+  },
+  {
+   "set": "WL6",
+   "id": 28,
+   "symbol": "SHOOTDOORSND",
+   "note": "28"
+  },
+  {
+   "set": "WL6",
+   "id": 29,
+   "symbol": "DEATHSCREAM1SND",
+   "note": "29"
+  },
+  {
+   "set": "WL6",
+   "id": 30,
+   "symbol": "GETMACHINESND",
+   "note": "30"
+  },
+  {
+   "set": "WL6",
+   "id": 31,
+   "symbol": "GETAMMOSND",
+   "note": "31"
+  },
+  {
+   "set": "WL6",
+   "id": 32,
+   "symbol": "SHOOTSND",
+   "note": "32"
+  },
+  {
+   "set": "WL6",
+   "id": 33,
+   "symbol": "HEALTH1SND",
+   "note": "33"
+  },
+  {
+   "set": "WL6",
+   "id": 34,
+   "symbol": "HEALTH2SND",
+   "note": "34"
+  },
+  {
+   "set": "WL6",
+   "id": 35,
+   "symbol": "BONUS1SND",
+   "note": "35"
+  },
+  {
+   "set": "WL6",
+   "id": 36,
+   "symbol": "BONUS2SND",
+   "note": "36"
+  },
+  {
+   "set": "WL6",
+   "id": 37,
+   "symbol": "BONUS3SND",
+   "note": "37"
+  },
+  {
+   "set": "WL6",
+   "id": 38,
+   "symbol": "GETGATLINGSND",
+   "note": "38"
+  },
+  {
+   "set": "WL6",
+   "id": 39,
+   "symbol": "ESCPRESSEDSND",
+   "note": "39"
+  },
+  {
+   "set": "WL6",
+   "id": 40,
+   "symbol": "LEVELDONESND",
+   "note": "40"
+  },
+  {
+   "set": "WL6",
+   "id": 41,
+   "symbol": "DOGBARKSND",
+   "note": "41"
+  },
+  {
+   "set": "WL6",
+   "id": 42,
+   "symbol": "ENDBONUS1SND",
+   "note": "42"
+  },
+  {
+   "set": "WL6",
+   "id": 43,
+   "symbol": "ENDBONUS2SND",
+   "note": "43"
+  },
+  {
+   "set": "WL6",
+   "id": 44,
+   "symbol": "BONUS1UPSND",
+   "note": "44"
+  },
+  {
+   "set": "WL6",
+   "id": 45,
+   "symbol": "BONUS4SND",
+   "note": "45"
+  },
+  {
+   "set": "WL6",
+   "id": 46,
+   "symbol": "PUSHWALLSND",
+   "note": "46"
+  },
+  {
+   "set": "WL6",
+   "id": 47,
+   "symbol": "NOBONUSSND",
+   "note": "47"
+  },
+  {
+   "set": "WL6",
+   "id": 48,
+   "symbol": "PERCENT100SND",
+   "note": "48"
+  },
+  {
+   "set": "WL6",
+   "id": 49,
+   "symbol": "BOSSACTIVESND",
+   "note": "49"
+  },
+  {
+   "set": "WL6",
+   "id": 50,
+   "symbol": "MUTTISND",
+   "note": "50"
+  },
+  {
+   "set": "WL6",
+   "id": 51,
+   "symbol": "SCHUTZADSND",
+   "note": "51"
+  },
+  {
+   "set": "WL6",
+   "id": 52,
+   "symbol": "AHHHGSND",
+   "note": "52"
+  },
+  {
+   "set": "WL6",
+   "id": 53,
+   "symbol": "DIESND",
+   "note": "53"
+  },
+  {
+   "set": "WL6",
+   "id": 54,
+   "symbol": "EVASND",
+   "note": "54"
+  },
+  {
+   "set": "WL6",
+   "id": 55,
+   "symbol": "GUTENTAGSND",
+   "note": "55"
+  },
+  {
+   "set": "WL6",
+   "id": 56,
+   "symbol": "LEBENSND",
+   "note": "56"
+  },
+  {
+   "set": "WL6",
+   "id": 57,
+   "symbol": "SCHEISTSND",
+   "note": "57"
+  },
+  {
+   "set": "WL6",
+   "id": 58,
+   "symbol": "NAZIFIRESND",
+   "note": "58"
+  },
+  {
+   "set": "WL6",
+   "id": 59,
+   "symbol": "BOSSFIRESND",
+   "note": "59"
+  },
+  {
+   "set": "WL6",
+   "id": 60,
+   "symbol": "SSFIRESND",
+   "note": "60"
+  },
+  {
+   "set": "WL6",
+   "id": 61,
+   "symbol": "SLURPIESND",
+   "note": "61"
+  },
+  {
+   "set": "WL6",
+   "id": 62,
+   "symbol": "TOT_HUNDSND",
+   "note": "62"
+  },
+  {
+   "set": "WL6",
+   "id": 63,
+   "symbol": "MEINGOTTSND",
+   "note": "63"
+  },
+  {
+   "set": "WL6",
+   "id": 64,
+   "symbol": "SCHABBSHASND",
+   "note": "64"
+  },
+  {
+   "set": "WL6",
+   "id": 65,
+   "symbol": "HITLERHASND",
+   "note": "65"
+  },
+  {
+   "set": "WL6",
+   "id": 66,
+   "symbol": "SPIONSND",
+   "note": "66"
+  },
+  {
+   "set": "WL6",
+   "id": 67,
+   "symbol": "NEINSOVASSND",
+   "note": "67"
+  },
+  {
+   "set": "WL6",
+   "id": 68,
+   "symbol": "DOGATTACKSND",
+   "note": "68"
+  },
+  {
+   "set": "WL6",
+   "id": 69,
+   "symbol": "FLAMETHROWERSND",
+   "note": "69"
+  },
+  {
+   "set": "WL6",
+   "id": 70,
+   "symbol": "MECHSTEPSND",
+   "note": "70"
+  },
+  {
+   "set": "WL6",
+   "id": 71,
+   "symbol": "GOOBSSND",
+   "note": "71"
+  },
+  {
+   "set": "WL6",
+   "id": 72,
+   "symbol": "YEAHSND",
+   "note": "72"
+  },
+  {
+   "set": "WL6",
+   "id": 73,
+   "symbol": "DEATHSCREAM4SND",
+   "note": "73"
+  },
+  {
+   "set": "WL6",
+   "id": 74,
+   "symbol": "DEATHSCREAM5SND",
+   "note": "74"
+  },
+  {
+   "set": "WL6",
+   "id": 75,
+   "symbol": "DEATHSCREAM6SND",
+   "note": "75"
+  },
+  {
+   "set": "WL6",
+   "id": 76,
+   "symbol": "DEATHSCREAM7SND",
+   "note": "76"
+  },
+  {
+   "set": "WL6",
+   "id": 77,
+   "symbol": "DEATHSCREAM8SND",
+   "note": "77"
+  },
+  {
+   "set": "WL6",
+   "id": 78,
+   "symbol": "DEATHSCREAM9SND",
+   "note": "78"
+  },
+  {
+   "set": "WL6",
+   "id": 79,
+   "symbol": "DONNERSND",
+   "note": "79"
+  },
+  {
+   "set": "WL6",
+   "id": 80,
+   "symbol": "EINESND",
+   "note": "80"
+  },
+  {
+   "set": "WL6",
+   "id": 81,
+   "symbol": "ERLAUBENSND",
+   "note": "81"
+  },
+  {
+   "set": "WL6",
+   "id": 82,
+   "symbol": "KEINSND",
+   "note": "82"
+  },
+  {
+   "set": "WL6",
+   "id": 83,
+   "symbol": "MEINSND",
+   "note": "83"
+  },
+  {
+   "set": "WL6",
+   "id": 84,
+   "symbol": "ROSESND",
+   "note": "84"
+  },
+  {
+   "set": "WL6",
+   "id": 85,
+   "symbol": "MISSILEFIRESND",
+   "note": "85"
+  },
+  {
+   "set": "WL6",
+   "id": 86,
+   "symbol": "MISSILEHITSND",
+   "note": "86"
+  },
+  {
+   "set": "SOD",
+   "id": 0,
+   "symbol": "HITWALLSND",
+   "note": "0"
+  },
+  {
+   "set": "SOD",
+   "id": 1,
+   "symbol": "MISSILEHITSND",
+   "note": "1"
+  },
+  {
+   "set": "SOD",
+   "id": 2,
+   "symbol": "SELECTITEMSND",
+   "note": "2"
+  },
+  {
+   "set": "SOD",
+   "id": 3,
+   "symbol": "GHOSTSIGHTSND",
+   "note": "3"
+  },
+  {
+   "set": "SOD",
+   "id": 4,
+   "symbol": "MOVEGUN2SND",
+   "note": "4"
+  },
+  {
+   "set": "SOD",
+   "id": 5,
+   "symbol": "MOVEGUN1SND",
+   "note": "5"
+  },
+  {
+   "set": "SOD",
+   "id": 6,
+   "symbol": "NOWAYSND",
+   "note": "6"
+  },
+  {
+   "set": "SOD",
+   "id": 7,
+   "symbol": "NAZIHITPLAYERSND",
+   "note": "7"
+  },
+  {
+   "set": "SOD",
+   "id": 8,
+   "symbol": "MISSILEFIRESND",
+   "note": "8"
+  },
+  {
+   "set": "SOD",
+   "id": 9,
+   "symbol": "PLAYERDEATHSND",
+   "note": "9"
+  },
+  {
+   "set": "SOD",
+   "id": 10,
+   "symbol": "DOGDEATHSND",
+   "note": "10"
+  },
+  {
+   "set": "SOD",
+   "id": 11,
+   "symbol": "ATKGATLINGSND",
+   "note": "11"
+  },
+  {
+   "set": "SOD",
+   "id": 12,
+   "symbol": "GETKEYSND",
+   "note": "12"
+  },
+  {
+   "set": "SOD",
+   "id": 13,
+   "symbol": "NOITEMSND",
+   "note": "13"
+  },
+  {
+   "set": "SOD",
+   "id": 14,
+   "symbol": "WALK1SND",
+   "note": "14"
+  },
+  {
+   "set": "SOD",
+   "id": 15,
+   "symbol": "WALK2SND",
+   "note": "15"
+  },
+  {
+   "set": "SOD",
+   "id": 16,
+   "symbol": "TAKEDAMAGESND",
+   "note": "16"
+  },
+  {
+   "set": "SOD",
+   "id": 17,
+   "symbol": "GAMEOVERSND",
+   "note": "17"
+  },
+  {
+   "set": "SOD",
+   "id": 18,
+   "symbol": "OPENDOORSND",
+   "note": "18"
+  },
+  {
+   "set": "SOD",
+   "id": 19,
+   "symbol": "CLOSEDOORSND",
+   "note": "19"
+  },
+  {
+   "set": "SOD",
+   "id": 20,
+   "symbol": "DONOTHINGSND",
+   "note": "20"
+  },
+  {
+   "set": "SOD",
+   "id": 21,
+   "symbol": "HALTSND",
+   "note": "21"
+  },
+  {
+   "set": "SOD",
+   "id": 22,
+   "symbol": "DEATHSCREAM2SND",
+   "note": "22"
+  },
+  {
+   "set": "SOD",
+   "id": 23,
+   "symbol": "ATKKNIFESND",
+   "note": "23"
+  },
+  {
+   "set": "SOD",
+   "id": 24,
+   "symbol": "ATKPISTOLSND",
+   "note": "24"
+  },
+  {
+   "set": "SOD",
+   "id": 25,
+   "symbol": "DEATHSCREAM3SND",
+   "note": "25"
+  },
+  {
+   "set": "SOD",
+   "id": 26,
+   "symbol": "ATKMACHINEGUNSND",
+   "note": "26"
+  },
+  {
+   "set": "SOD",
+   "id": 27,
+   "symbol": "HITENEMYSND",
+   "note": "27"
+  },
+  {
+   "set": "SOD",
+   "id": 28,
+   "symbol": "SHOOTDOORSND",
+   "note": "28"
+  },
+  {
+   "set": "SOD",
+   "id": 29,
+   "symbol": "DEATHSCREAM1SND",
+   "note": "29"
+  },
+  {
+   "set": "SOD",
+   "id": 30,
+   "symbol": "GETMACHINESND",
+   "note": "30"
+  },
+  {
+   "set": "SOD",
+   "id": 31,
+   "symbol": "GETAMMOSND",
+   "note": "31"
+  },
+  {
+   "set": "SOD",
+   "id": 32,
+   "symbol": "SHOOTSND",
+   "note": "32"
+  },
+  {
+   "set": "SOD",
+   "id": 33,
+   "symbol": "HEALTH1SND",
+   "note": "33"
+  },
+  {
+   "set": "SOD",
+   "id": 34,
+   "symbol": "HEALTH2SND",
+   "note": "34"
+  },
+  {
+   "set": "SOD",
+   "id": 35,
+   "symbol": "BONUS1SND",
+   "note": "35"
+  },
+  {
+   "set": "SOD",
+   "id": 36,
+   "symbol": "BONUS2SND",
+   "note": "36"
+  },
+  {
+   "set": "SOD",
+   "id": 37,
+   "symbol": "BONUS3SND",
+   "note": "37"
+  },
+  {
+   "set": "SOD",
+   "id": 38,
+   "symbol": "GETGATLINGSND",
+   "note": "38"
+  },
+  {
+   "set": "SOD",
+   "id": 39,
+   "symbol": "ESCPRESSEDSND",
+   "note": "39"
+  },
+  {
+   "set": "SOD",
+   "id": 40,
+   "symbol": "LEVELDONESND",
+   "note": "40"
+  },
+  {
+   "set": "SOD",
+   "id": 41,
+   "symbol": "DOGBARKSND",
+   "note": "41"
+  },
+  {
+   "set": "SOD",
+   "id": 42,
+   "symbol": "ENDBONUS1SND",
+   "note": "42"
+  },
+  {
+   "set": "SOD",
+   "id": 43,
+   "symbol": "ENDBONUS2SND",
+   "note": "43"
+  },
+  {
+   "set": "SOD",
+   "id": 44,
+   "symbol": "BONUS1UPSND",
+   "note": "44"
+  },
+  {
+   "set": "SOD",
+   "id": 45,
+   "symbol": "BONUS4SND",
+   "note": "45"
+  },
+  {
+   "set": "SOD",
+   "id": 46,
+   "symbol": "PUSHWALLSND",
+   "note": "46"
+  },
+  {
+   "set": "SOD",
+   "id": 47,
+   "symbol": "NOBONUSSND",
+   "note": "47"
+  },
+  {
+   "set": "SOD",
+   "id": 48,
+   "symbol": "PERCENT100SND",
+   "note": "48"
+  },
+  {
+   "set": "SOD",
+   "id": 49,
+   "symbol": "BOSSACTIVESND",
+   "note": "49"
+  },
+  {
+   "set": "SOD",
+   "id": 50,
+   "symbol": "DEATHSCREAM4SND",
+   "note": "50"
+  },
+  {
+   "set": "SOD",
+   "id": 51,
+   "symbol": "SCHUTZADSND",
+   "note": "51"
+  },
+  {
+   "set": "SOD",
+   "id": 52,
+   "symbol": "AHHHGSND",
+   "note": "52"
+  },
+  {
+   "set": "SOD",
+   "id": 53,
+   "symbol": "DEATHSCREAM5SND",
+   "note": "53"
+  },
+  {
+   "set": "SOD",
+   "id": 54,
+   "symbol": "DEATHSCREAM7SND",
+   "note": "54"
+  },
+  {
+   "set": "SOD",
+   "id": 55,
+   "symbol": "DEATHSCREAM8SND",
+   "note": "55"
+  },
+  {
+   "set": "SOD",
+   "id": 56,
+   "symbol": "LEBENSND",
+   "note": "56"
+  },
+  {
+   "set": "SOD",
+   "id": 57,
+   "symbol": "DEATHSCREAM6SND",
+   "note": "57"
+  },
+  {
+   "set": "SOD",
+   "id": 58,
+   "symbol": "NAZIFIRESND",
+   "note": "58"
+  },
+  {
+   "set": "SOD",
+   "id": 59,
+   "symbol": "BOSSFIRESND",
+   "note": "59"
+  },
+  {
+   "set": "SOD",
+   "id": 60,
+   "symbol": "SSFIRESND",
+   "note": "60"
+  },
+  {
+   "set": "SOD",
+   "id": 61,
+   "symbol": "SLURPIESND",
+   "note": "61"
+  },
+  {
+   "set": "SOD",
+   "id": 62,
+   "symbol": "GHOSTFADESND",
+   "note": "62"
+  },
+  {
+   "set": "SOD",
+   "id": 63,
+   "symbol": "DEATHSCREAM9SND",
+   "note": "63"
+  },
+  {
+   "set": "SOD",
+   "id": 64,
+   "symbol": "GETAMMOBOXSND",
+   "note": "64"
+  },
+  {
+   "set": "SOD",
+   "id": 65,
+   "symbol": "ANGELSIGHTSND",
+   "note": "65"
+  },
+  {
+   "set": "SOD",
+   "id": 66,
+   "symbol": "SPIONSND",
+   "note": "66"
+  },
+  {
+   "set": "SOD",
+   "id": 67,
+   "symbol": "NEINSOVASSND",
+   "note": "67"
+  },
+  {
+   "set": "SOD",
+   "id": 68,
+   "symbol": "DOGATTACKSND",
+   "note": "68"
+  },
+  {
+   "set": "SOD",
+   "id": 69,
+   "symbol": "ANGELFIRESND",
+   "note": "69"
+  },
+  {
+   "set": "SOD",
+   "id": 70,
+   "symbol": "TRANSSIGHTSND",
+   "note": "70"
+  },
+  {
+   "set": "SOD",
+   "id": 71,
+   "symbol": "TRANSDEATHSND",
+   "note": "71"
+  },
+  {
+   "set": "SOD",
+   "id": 72,
+   "symbol": "WILHELMSIGHTSND",
+   "note": "72"
+  },
+  {
+   "set": "SOD",
+   "id": 73,
+   "symbol": "WILHELMDEATHSND",
+   "note": "73"
+  },
+  {
+   "set": "SOD",
+   "id": 74,
+   "symbol": "UBERDEATHSND",
+   "note": "74"
+  },
+  {
+   "set": "SOD",
+   "id": 75,
+   "symbol": "KNIGHTSIGHTSND",
+   "note": "75"
+  },
+  {
+   "set": "SOD",
+   "id": 76,
+   "symbol": "KNIGHTDEATHSND",
+   "note": "76"
+  },
+  {
+   "set": "SOD",
+   "id": 77,
+   "symbol": "ANGELDEATHSND",
+   "note": "77"
+  },
+  {
+   "set": "SOD",
+   "id": 78,
+   "symbol": "KNIGHTMISSILESND",
+   "note": "78"
+  },
+  {
+   "set": "SOD",
+   "id": 79,
+   "symbol": "GETSPEARSND",
+   "note": "79"
+  },
+  {
+   "set": "SOD",
+   "id": 80,
+   "symbol": "ANGELTIREDSND",
+   "note": "80"
+  },
+  {
+   "set": "SDM",
+   "id": 0,
+   "symbol": "HITWALLSND",
+   "note": "0"
+  },
+  {
+   "set": "SDM",
+   "id": 1,
+   "symbol": "MISSILEHITSND",
+   "note": "1"
+  },
+  {
+   "set": "SDM",
+   "id": 2,
+   "symbol": "SELECTITEMSND",
+   "note": "2"
+  },
+  {
+   "set": "SDM",
+   "id": 3,
+   "symbol": "GHOSTSIGHTSND",
+   "note": "3"
+  },
+  {
+   "set": "SDM",
+   "id": 4,
+   "symbol": "MOVEGUN2SND",
+   "note": "4"
+  },
+  {
+   "set": "SDM",
+   "id": 5,
+   "symbol": "MOVEGUN1SND",
+   "note": "5"
+  },
+  {
+   "set": "SDM",
+   "id": 6,
+   "symbol": "NOWAYSND",
+   "note": "6"
+  },
+  {
+   "set": "SDM",
+   "id": 7,
+   "symbol": "NAZIHITPLAYERSND",
+   "note": "7"
+  },
+  {
+   "set": "SDM",
+   "id": 8,
+   "symbol": "MISSILEFIRESND",
+   "note": "8"
+  },
+  {
+   "set": "SDM",
+   "id": 9,
+   "symbol": "PLAYERDEATHSND",
+   "note": "9"
+  },
+  {
+   "set": "SDM",
+   "id": 10,
+   "symbol": "DOGDEATHSND",
+   "note": "10"
+  },
+  {
+   "set": "SDM",
+   "id": 11,
+   "symbol": "ATKGATLINGSND",
+   "note": "11"
+  },
+  {
+   "set": "SDM",
+   "id": 12,
+   "symbol": "GETKEYSND",
+   "note": "12"
+  },
+  {
+   "set": "SDM",
+   "id": 13,
+   "symbol": "NOITEMSND",
+   "note": "13"
+  },
+  {
+   "set": "SDM",
+   "id": 14,
+   "symbol": "WALK1SND",
+   "note": "14"
+  },
+  {
+   "set": "SDM",
+   "id": 15,
+   "symbol": "WALK2SND",
+   "note": "15"
+  },
+  {
+   "set": "SDM",
+   "id": 16,
+   "symbol": "TAKEDAMAGESND",
+   "note": "16"
+  },
+  {
+   "set": "SDM",
+   "id": 17,
+   "symbol": "GAMEOVERSND",
+   "note": "17"
+  },
+  {
+   "set": "SDM",
+   "id": 18,
+   "symbol": "OPENDOORSND",
+   "note": "18"
+  },
+  {
+   "set": "SDM",
+   "id": 19,
+   "symbol": "CLOSEDOORSND",
+   "note": "19"
+  },
+  {
+   "set": "SDM",
+   "id": 20,
+   "symbol": "DONOTHINGSND",
+   "note": "20"
+  },
+  {
+   "set": "SDM",
+   "id": 21,
+   "symbol": "HALTSND",
+   "note": "21"
+  },
+  {
+   "set": "SDM",
+   "id": 22,
+   "symbol": "DEATHSCREAM2SND",
+   "note": "22"
+  },
+  {
+   "set": "SDM",
+   "id": 23,
+   "symbol": "ATKKNIFESND",
+   "note": "23"
+  },
+  {
+   "set": "SDM",
+   "id": 24,
+   "symbol": "ATKPISTOLSND",
+   "note": "24"
+  },
+  {
+   "set": "SDM",
+   "id": 25,
+   "symbol": "DEATHSCREAM3SND",
+   "note": "25"
+  },
+  {
+   "set": "SDM",
+   "id": 26,
+   "symbol": "ATKMACHINEGUNSND",
+   "note": "26"
+  },
+  {
+   "set": "SDM",
+   "id": 27,
+   "symbol": "HITENEMYSND",
+   "note": "27"
+  },
+  {
+   "set": "SDM",
+   "id": 28,
+   "symbol": "SHOOTDOORSND",
+   "note": "28"
+  },
+  {
+   "set": "SDM",
+   "id": 29,
+   "symbol": "DEATHSCREAM1SND",
+   "note": "29"
+  },
+  {
+   "set": "SDM",
+   "id": 30,
+   "symbol": "GETMACHINESND",
+   "note": "30"
+  },
+  {
+   "set": "SDM",
+   "id": 31,
+   "symbol": "GETAMMOSND",
+   "note": "31"
+  },
+  {
+   "set": "SDM",
+   "id": 32,
+   "symbol": "SHOOTSND",
+   "note": "32"
+  },
+  {
+   "set": "SDM",
+   "id": 33,
+   "symbol": "HEALTH1SND",
+   "note": "33"
+  },
+  {
+   "set": "SDM",
+   "id": 34,
+   "symbol": "HEALTH2SND",
+   "note": "34"
+  },
+  {
+   "set": "SDM",
+   "id": 35,
+   "symbol": "BONUS1SND",
+   "note": "35"
+  },
+  {
+   "set": "SDM",
+   "id": 36,
+   "symbol": "BONUS2SND",
+   "note": "36"
+  },
+  {
+   "set": "SDM",
+   "id": 37,
+   "symbol": "BONUS3SND",
+   "note": "37"
+  },
+  {
+   "set": "SDM",
+   "id": 38,
+   "symbol": "GETGATLINGSND",
+   "note": "38"
+  },
+  {
+   "set": "SDM",
+   "id": 39,
+   "symbol": "ESCPRESSEDSND",
+   "note": "39"
+  },
+  {
+   "set": "SDM",
+   "id": 40,
+   "symbol": "LEVELDONESND",
+   "note": "40"
+  },
+  {
+   "set": "SDM",
+   "id": 41,
+   "symbol": "DOGBARKSND",
+   "note": "41"
+  },
+  {
+   "set": "SDM",
+   "id": 42,
+   "symbol": "ENDBONUS1SND",
+   "note": "42"
+  },
+  {
+   "set": "SDM",
+   "id": 43,
+   "symbol": "ENDBONUS2SND",
+   "note": "43"
+  },
+  {
+   "set": "SDM",
+   "id": 44,
+   "symbol": "BONUS1UPSND",
+   "note": "44"
+  },
+  {
+   "set": "SDM",
+   "id": 45,
+   "symbol": "BONUS4SND",
+   "note": "45"
+  },
+  {
+   "set": "SDM",
+   "id": 46,
+   "symbol": "PUSHWALLSND",
+   "note": "46"
+  },
+  {
+   "set": "SDM",
+   "id": 47,
+   "symbol": "NOBONUSSND",
+   "note": "47"
+  },
+  {
+   "set": "SDM",
+   "id": 48,
+   "symbol": "PERCENT100SND",
+   "note": "48"
+  },
+  {
+   "set": "SDM",
+   "id": 49,
+   "symbol": "BOSSACTIVESND",
+   "note": "49"
+  },
+  {
+   "set": "SDM",
+   "id": 50,
+   "symbol": "DEATHSCREAM4SND",
+   "note": "50"
+  },
+  {
+   "set": "SDM",
+   "id": 51,
+   "symbol": "SCHUTZADSND",
+   "note": "51"
+  },
+  {
+   "set": "SDM",
+   "id": 52,
+   "symbol": "AHHHGSND",
+   "note": "52"
+  },
+  {
+   "set": "SDM",
+   "id": 53,
+   "symbol": "DEATHSCREAM5SND",
+   "note": "53"
+  },
+  {
+   "set": "SDM",
+   "id": 54,
+   "symbol": "DEATHSCREAM7SND",
+   "note": "54"
+  },
+  {
+   "set": "SDM",
+   "id": 55,
+   "symbol": "DEATHSCREAM8SND",
+   "note": "55"
+  },
+  {
+   "set": "SDM",
+   "id": 56,
+   "symbol": "LEBENSND",
+   "note": "56"
+  },
+  {
+   "set": "SDM",
+   "id": 57,
+   "symbol": "DEATHSCREAM6SND",
+   "note": "57"
+  },
+  {
+   "set": "SDM",
+   "id": 58,
+   "symbol": "NAZIFIRESND",
+   "note": "58"
+  },
+  {
+   "set": "SDM",
+   "id": 59,
+   "symbol": "BOSSFIRESND",
+   "note": "59"
+  },
+  {
+   "set": "SDM",
+   "id": 60,
+   "symbol": "SSFIRESND",
+   "note": "60"
+  },
+  {
+   "set": "SDM",
+   "id": 61,
+   "symbol": "SLURPIESND",
+   "note": "61"
+  },
+  {
+   "set": "SDM",
+   "id": 62,
+   "symbol": "GHOSTFADESND",
+   "note": "62"
+  },
+  {
+   "set": "SDM",
+   "id": 63,
+   "symbol": "DEATHSCREAM9SND",
+   "note": "63"
+  },
+  {
+   "set": "SDM",
+   "id": 64,
+   "symbol": "GETAMMOBOXSND",
+   "note": "64"
+  },
+  {
+   "set": "SDM",
+   "id": 65,
+   "symbol": "ANGELSIGHTSND",
+   "note": "65"
+  },
+  {
+   "set": "SDM",
+   "id": 66,
+   "symbol": "SPIONSND",
+   "note": "66"
+  },
+  {
+   "set": "SDM",
+   "id": 67,
+   "symbol": "NEINSOVASSND",
+   "note": "67"
+  },
+  {
+   "set": "SDM",
+   "id": 68,
+   "symbol": "DOGATTACKSND",
+   "note": "68"
+  },
+  {
+   "set": "SDM",
+   "id": 69,
+   "symbol": "ANGELFIRESND",
+   "note": "69"
+  },
+  {
+   "set": "SDM",
+   "id": 70,
+   "symbol": "TRANSSIGHTSND",
+   "note": "70"
+  },
+  {
+   "set": "SDM",
+   "id": 71,
+   "symbol": "TRANSDEATHSND",
+   "note": "71"
+  },
+  {
+   "set": "SDM",
+   "id": 72,
+   "symbol": "WILHELMSIGHTSND",
+   "note": "72"
+  },
+  {
+   "set": "SDM",
+   "id": 73,
+   "symbol": "WILHELMDEATHSND",
+   "note": "73"
+  },
+  {
+   "set": "SDM",
+   "id": 74,
+   "symbol": "UBERDEATHSND",
+   "note": "74"
+  },
+  {
+   "set": "SDM",
+   "id": 75,
+   "symbol": "KNIGHTSIGHTSND",
+   "note": "75"
+  },
+  {
+   "set": "SDM",
+   "id": 76,
+   "symbol": "KNIGHTDEATHSND",
+   "note": "76"
+  },
+  {
+   "set": "SDM",
+   "id": 77,
+   "symbol": "ANGELDEATHSND",
+   "note": "77"
+  },
+  {
+   "set": "SDM",
+   "id": 78,
+   "symbol": "KNIGHTMISSILESND",
+   "note": "78"
+  },
+  {
+   "set": "SDM",
+   "id": 79,
+   "symbol": "GETSPEARSND",
+   "note": "79"
+  },
+  {
+   "set": "SDM",
+   "id": 80,
+   "symbol": "ANGELTIREDSND",
+   "note": "80"
+  }
+ ],
+ "music": [
+  {
+   "set": "WL1",
+   "id": 0,
+   "symbol": "CORNER_MUS",
+   "note": "0"
+  },
+  {
+   "set": "WL1",
+   "id": 1,
+   "symbol": "DUNGEON_MUS",
+   "note": "1"
+  },
+  {
+   "set": "WL1",
+   "id": 2,
+   "symbol": "GETOUT_MUS",
+   "note": "2"
+  },
+  {
+   "set": "WL1",
+   "id": 3,
+   "symbol": "GETTHEM_MUS",
+   "note": "3"
+  },
+  {
+   "set": "WL1",
+   "id": 4,
+   "symbol": "HEADACHE_MUS",
+   "note": "4"
+  },
+  {
+   "set": "WL1",
+   "id": 5,
+   "symbol": "HITLWLTZ_MUS",
+   "note": "5"
+  },
+  {
+   "set": "WL1",
+   "id": 6,
+   "symbol": "INTROCW3_MUS",
+   "note": "6"
+  },
+  {
+   "set": "WL1",
+   "id": 7,
+   "symbol": "NAZI_NOR_MUS",
+   "note": "7"
+  },
+  {
+   "set": "WL1",
+   "id": 8,
+   "symbol": "NAZI_OMI_MUS",
+   "note": "8"
+  },
+  {
+   "set": "WL1",
+   "id": 9,
+   "symbol": "POW_MUS",
+   "note": "9"
+  },
+  {
+   "set": "WL1",
+   "id": 10,
+   "symbol": "SALUTE_MUS",
+   "note": "10"
+  },
+  {
+   "set": "WL1",
+   "id": 11,
+   "symbol": "SEARCHN_MUS",
+   "note": "11"
+  },
+  {
+   "set": "WL1",
+   "id": 12,
+   "symbol": "SUSPENSE_MUS",
+   "note": "12"
+  },
+  {
+   "set": "WL1",
+   "id": 13,
+   "symbol": "VICTORS_MUS",
+   "note": "13"
+  },
+  {
+   "set": "WL1",
+   "id": 14,
+   "symbol": "WONDERIN_MUS",
+   "note": "14"
+  },
+  {
+   "set": "WL1",
+   "id": 15,
+   "symbol": "FUNKYOU_MUS",
+   "note": "15"
+  },
+  {
+   "set": "WL1",
+   "id": 16,
+   "symbol": "ENDLEVEL_MUS",
+   "note": "16"
+  },
+  {
+   "set": "WL1",
+   "id": 17,
+   "symbol": "GOINGAFT_MUS",
+   "note": "17"
+  },
+  {
+   "set": "WL1",
+   "id": 18,
+   "symbol": "PREGNANT_MUS",
+   "note": "18"
+  },
+  {
+   "set": "WL1",
+   "id": 19,
+   "symbol": "ULTIMATE_MUS",
+   "note": "19"
+  },
+  {
+   "set": "WL1",
+   "id": 20,
+   "symbol": "NAZI_RAP_MUS",
+   "note": "20"
+  },
+  {
+   "set": "WL1",
+   "id": 21,
+   "symbol": "ZEROHOUR_MUS",
+   "note": "21"
+  },
+  {
+   "set": "WL1",
+   "id": 22,
+   "symbol": "TWELFTH_MUS",
+   "note": "22"
+  },
+  {
+   "set": "WL1",
+   "id": 23,
+   "symbol": "ROSTER_MUS",
+   "note": "23"
+  },
+  {
+   "set": "WL1",
+   "id": 24,
+   "symbol": "URAHERO_MUS",
+   "note": "24"
+  },
+  {
+   "set": "WL1",
+   "id": 25,
+   "symbol": "VICMARCH_MUS",
+   "note": "25"
+  },
+  {
+   "set": "WL1",
+   "id": 26,
+   "symbol": "WARMRCH1_MUS",
+   "note": "26"
+  },
+  {
+   "set": "WL6",
+   "id": 0,
+   "symbol": "CORNER_MUS",
+   "note": "0"
+  },
+  {
+   "set": "WL6",
+   "id": 1,
+   "symbol": "DUNGEON_MUS",
+   "note": "1"
+  },
+  {
+   "set": "WL6",
+   "id": 2,
+   "symbol": "WARMARCH_MUS",
+   "note": "2"
+  },
+  {
+   "set": "WL6",
+   "id": 3,
+   "symbol": "GETTHEM_MUS",
+   "note": "3"
+  },
+  {
+   "set": "WL6",
+   "id": 4,
+   "symbol": "HEADACHE_MUS",
+   "note": "4"
+  },
+  {
+   "set": "WL6",
+   "id": 5,
+   "symbol": "HITLWLTZ_MUS",
+   "note": "5"
+  },
+  {
+   "set": "WL6",
+   "id": 6,
+   "symbol": "INTROCW3_MUS",
+   "note": "6"
+  },
+  {
+   "set": "WL6",
+   "id": 7,
+   "symbol": "NAZI_NOR_MUS",
+   "note": "7"
+  },
+  {
+   "set": "WL6",
+   "id": 8,
+   "symbol": "NAZI_OMI_MUS",
+   "note": "8"
+  },
+  {
+   "set": "WL6",
+   "id": 9,
+   "symbol": "POW_MUS",
+   "note": "9"
+  },
+  {
+   "set": "WL6",
+   "id": 10,
+   "symbol": "SALUTE_MUS",
+   "note": "10"
+  },
+  {
+   "set": "WL6",
+   "id": 11,
+   "symbol": "SEARCHN_MUS",
+   "note": "11"
+  },
+  {
+   "set": "WL6",
+   "id": 12,
+   "symbol": "SUSPENSE_MUS",
+   "note": "12"
+  },
+  {
+   "set": "WL6",
+   "id": 13,
+   "symbol": "VICTORS_MUS",
+   "note": "13"
+  },
+  {
+   "set": "WL6",
+   "id": 14,
+   "symbol": "WONDERIN_MUS",
+   "note": "14"
+  },
+  {
+   "set": "WL6",
+   "id": 15,
+   "symbol": "FUNKYOU_MUS",
+   "note": "15"
+  },
+  {
+   "set": "WL6",
+   "id": 16,
+   "symbol": "ENDLEVEL_MUS",
+   "note": "16"
+  },
+  {
+   "set": "WL6",
+   "id": 17,
+   "symbol": "GOINGAFT_MUS",
+   "note": "17"
+  },
+  {
+   "set": "WL6",
+   "id": 18,
+   "symbol": "PREGNANT_MUS",
+   "note": "18"
+  },
+  {
+   "set": "WL6",
+   "id": 19,
+   "symbol": "ULTIMATE_MUS",
+   "note": "19"
+  },
+  {
+   "set": "WL6",
+   "id": 20,
+   "symbol": "NAZI_RAP_MUS",
+   "note": "20"
+  },
+  {
+   "set": "WL6",
+   "id": 21,
+   "symbol": "ZEROHOUR_MUS",
+   "note": "21"
+  },
+  {
+   "set": "WL6",
+   "id": 22,
+   "symbol": "TWELFTH_MUS",
+   "note": "22"
+  },
+  {
+   "set": "WL6",
+   "id": 23,
+   "symbol": "ROSTER_MUS",
+   "note": "23"
+  },
+  {
+   "set": "WL6",
+   "id": 24,
+   "symbol": "URAHERO_MUS",
+   "note": "24"
+  },
+  {
+   "set": "WL6",
+   "id": 25,
+   "symbol": "VICMARCH_MUS",
+   "note": "25"
+  },
+  {
+   "set": "WL6",
+   "id": 26,
+   "symbol": "PACMAN_MUS",
+   "note": "26"
+  },
+  {
+   "set": "SOD",
+   "id": 0,
+   "symbol": "XFUNKIE_MUS",
+   "note": "0"
+  },
+  {
+   "set": "SOD",
+   "id": 1,
+   "symbol": "DUNGEON_MUS",
+   "note": "1"
+  },
+  {
+   "set": "SOD",
+   "id": 2,
+   "symbol": "XDEATH_MUS",
+   "note": "2"
+  },
+  {
+   "set": "SOD",
+   "id": 3,
+   "symbol": "GETTHEM_MUS",
+   "note": "3"
+  },
+  {
+   "set": "SOD",
+   "id": 4,
+   "symbol": "XTIPTOE_MUS",
+   "note": "4"
+  },
+  {
+   "set": "SOD",
+   "id": 5,
+   "symbol": "GOINGAFT_MUS",
+   "note": "5"
+  },
+  {
+   "set": "SOD",
+   "id": 6,
+   "symbol": "URAHERO_MUS",
+   "note": "6"
+  },
+  {
+   "set": "SOD",
+   "id": 7,
+   "symbol": "XTHEEND_MUS",
+   "note": "7"
+  },
+  {
+   "set": "SOD",
+   "id": 8,
+   "symbol": "NAZI_OMI_MUS",
+   "note": "8"
+  },
+  {
+   "set": "SOD",
+   "id": 9,
+   "symbol": "POW_MUS",
+   "note": "9"
+  },
+  {
+   "set": "SOD",
+   "id": 10,
+   "symbol": "TWELFTH_MUS",
+   "note": "10"
+  },
+  {
+   "set": "SOD",
+   "id": 11,
+   "symbol": "SEARCHN_MUS",
+   "note": "11"
+  },
+  {
+   "set": "SOD",
+   "id": 12,
+   "symbol": "SUSPENSE_MUS",
+   "note": "12"
+  },
+  {
+   "set": "SOD",
+   "id": 13,
+   "symbol": "ZEROHOUR_MUS",
+   "note": "13"
+  },
+  {
+   "set": "SOD",
+   "id": 14,
+   "symbol": "WONDERIN_MUS",
+   "note": "14"
+  },
+  {
+   "set": "SOD",
+   "id": 15,
+   "symbol": "ULTIMATE_MUS",
+   "note": "15"
+  },
+  {
+   "set": "SOD",
+   "id": 16,
+   "symbol": "ENDLEVEL_MUS",
+   "note": "16"
+  },
+  {
+   "set": "SOD",
+   "id": 17,
+   "symbol": "XEVIL_MUS",
+   "note": "17"
+  },
+  {
+   "set": "SOD",
+   "id": 18,
+   "symbol": "XJAZNAZI_MUS",
+   "note": "18"
+  },
+  {
+   "set": "SOD",
+   "id": 19,
+   "symbol": "COPYPRO_MUS",
+   "note": "19"
+  },
+  {
+   "set": "SOD",
+   "id": 20,
+   "symbol": "XAWARD_MUS",
+   "note": "20"
+  },
+  {
+   "set": "SOD",
+   "id": 21,
+   "symbol": "XPUTIT_MUS",
+   "note": "21"
+  },
+  {
+   "set": "SOD",
+   "id": 22,
+   "symbol": "XGETYOU_MUS",
+   "note": "22"
+  },
+  {
+   "set": "SOD",
+   "id": 23,
+   "symbol": "XTOWER2_MUS",
+   "note": "23"
+  },
+  {
+   "set": "SDM",
+   "id": 0,
+   "symbol": "XFUNKIE_MUS",
+   "note": "0"
+  },
+  {
+   "set": "SDM",
+   "id": 1,
+   "symbol": "DUNGEON_MUS",
+   "note": "1"
+  },
+  {
+   "set": "SDM",
+   "id": 2,
+   "symbol": "XDEATH_MUS",
+   "note": "2"
+  },
+  {
+   "set": "SDM",
+   "id": 3,
+   "symbol": "GETTHEM_MUS",
+   "note": "3"
+  },
+  {
+   "set": "SDM",
+   "id": 4,
+   "symbol": "XTIPTOE_MUS",
+   "note": "4"
+  },
+  {
+   "set": "SDM",
+   "id": 5,
+   "symbol": "GOINGAFT_MUS",
+   "note": "5"
+  },
+  {
+   "set": "SDM",
+   "id": 6,
+   "symbol": "URAHERO_MUS",
+   "note": "6"
+  },
+  {
+   "set": "SDM",
+   "id": 7,
+   "symbol": "XTHEEND_MUS",
+   "note": "7"
+  },
+  {
+   "set": "SDM",
+   "id": 8,
+   "symbol": "NAZI_OMI_MUS",
+   "note": "8"
+  },
+  {
+   "set": "SDM",
+   "id": 9,
+   "symbol": "POW_MUS",
+   "note": "9"
+  },
+  {
+   "set": "SDM",
+   "id": 10,
+   "symbol": "TWELFTH_MUS",
+   "note": "10"
+  },
+  {
+   "set": "SDM",
+   "id": 11,
+   "symbol": "SEARCHN_MUS",
+   "note": "11"
+  },
+  {
+   "set": "SDM",
+   "id": 12,
+   "symbol": "SUSPENSE_MUS",
+   "note": "12"
+  },
+  {
+   "set": "SDM",
+   "id": 13,
+   "symbol": "ZEROHOUR_MUS",
+   "note": "13"
+  },
+  {
+   "set": "SDM",
+   "id": 14,
+   "symbol": "WONDERIN_MUS",
+   "note": "14"
+  },
+  {
+   "set": "SDM",
+   "id": 15,
+   "symbol": "ULTIMATE_MUS",
+   "note": "15"
+  },
+  {
+   "set": "SDM",
+   "id": 16,
+   "symbol": "ENDLEVEL_MUS",
+   "note": "16"
+  },
+  {
+   "set": "SDM",
+   "id": 17,
+   "symbol": "XEVIL_MUS",
+   "note": "17"
+  },
+  {
+   "set": "SDM",
+   "id": 18,
+   "symbol": "XJAZNAZI_MUS",
+   "note": "18"
+  },
+  {
+   "set": "SDM",
+   "id": 19,
+   "symbol": "COPYPRO_MUS",
+   "note": "19"
+  },
+  {
+   "set": "SDM",
+   "id": 20,
+   "symbol": "XAWARD_MUS",
+   "note": "20"
+  },
+  {
+   "set": "SDM",
+   "id": 21,
+   "symbol": "XPUTIT_MUS",
+   "note": "21"
+  },
+  {
+   "set": "SDM",
+   "id": 22,
+   "symbol": "XGETYOU_MUS",
+   "note": "22"
+  },
+  {
+   "set": "SDM",
+   "id": 23,
+   "symbol": "XTOWER2_MUS",
+   "note": "23"
+  }
+ ],
+ "maps": [
+  {
+   "set": "WL6",
+   "id": 0,
+   "symbol": "WOLF1_MAP1_MAP",
+   "note": "0"
+  },
+  {
+   "set": "WL6",
+   "id": 1,
+   "symbol": "WOLF1_MAP2_MAP",
+   "note": "1"
+  },
+  {
+   "set": "WL6",
+   "id": 2,
+   "symbol": "WOLF1_MAP3_MAP",
+   "note": "2"
+  },
+  {
+   "set": "WL6",
+   "id": 3,
+   "symbol": "WOLF1_MAP4_MAP",
+   "note": "3"
+  },
+  {
+   "set": "WL6",
+   "id": 4,
+   "symbol": "WOLF1_MAP5_MAP",
+   "note": "4"
+  },
+  {
+   "set": "WL6",
+   "id": 5,
+   "symbol": "WOLF1_MAP6_MAP",
+   "note": "5"
+  },
+  {
+   "set": "WL6",
+   "id": 6,
+   "symbol": "WOLF1_MAP7_MAP",
+   "note": "6"
+  },
+  {
+   "set": "WL6",
+   "id": 7,
+   "symbol": "WOLF1_MAP8_MAP",
+   "note": "7"
+  },
+  {
+   "set": "WL6",
+   "id": 8,
+   "symbol": "WOLF1_BOSS_MAP",
+   "note": "8"
+  },
+  {
+   "set": "WL6",
+   "id": 9,
+   "symbol": "WOLF1_SECRET_MAP",
+   "note": "9"
+  },
+  {
+   "set": "WL6",
+   "id": 10,
+   "symbol": "WOLF2_MAP1_MAP",
+   "note": "10"
+  },
+  {
+   "set": "WL6",
+   "id": 11,
+   "symbol": "WOLF2_MAP2_MAP",
+   "note": "11"
+  },
+  {
+   "set": "WL6",
+   "id": 12,
+   "symbol": "WOLF2_MAP3_MAP",
+   "note": "12"
+  },
+  {
+   "set": "WL6",
+   "id": 13,
+   "symbol": "WOLF2_MAP4_MAP",
+   "note": "13"
+  },
+  {
+   "set": "WL6",
+   "id": 14,
+   "symbol": "WOLF2_MAP5_MAP",
+   "note": "14"
+  },
+  {
+   "set": "WL6",
+   "id": 15,
+   "symbol": "WOLF2_MAP6_MAP",
+   "note": "15"
+  },
+  {
+   "set": "WL6",
+   "id": 16,
+   "symbol": "WOLF2_MAP7_MAP",
+   "note": "16"
+  },
+  {
+   "set": "WL6",
+   "id": 17,
+   "symbol": "WOLF2_MAP8_MAP",
+   "note": "17"
+  },
+  {
+   "set": "WL6",
+   "id": 18,
+   "symbol": "WOLF2_BOSS_MAP",
+   "note": "18"
+  },
+  {
+   "set": "WL6",
+   "id": 19,
+   "symbol": "WOLF2_SECRET_MAP",
+   "note": "19"
+  },
+  {
+   "set": "WL6",
+   "id": 20,
+   "symbol": "WOLF3_MAP1_MAP",
+   "note": "20"
+  },
+  {
+   "set": "WL6",
+   "id": 21,
+   "symbol": "WOLF3_MAP2_MAP",
+   "note": "21"
+  },
+  {
+   "set": "WL6",
+   "id": 22,
+   "symbol": "WOLF3_MAP3_MAP",
+   "note": "22"
+  },
+  {
+   "set": "WL6",
+   "id": 23,
+   "symbol": "WOLF3_MAP4_MAP",
+   "note": "23"
+  },
+  {
+   "set": "WL6",
+   "id": 24,
+   "symbol": "WOLF3_MAP5_MAP",
+   "note": "24"
+  },
+  {
+   "set": "WL6",
+   "id": 25,
+   "symbol": "WOLF3_MAP6_MAP",
+   "note": "25"
+  },
+  {
+   "set": "WL6",
+   "id": 26,
+   "symbol": "WOLF3_MAP7_MAP",
+   "note": "26"
+  },
+  {
+   "set": "WL6",
+   "id": 27,
+   "symbol": "WOLF3_MAP8_MAP",
+   "note": "27"
+  },
+  {
+   "set": "WL6",
+   "id": 28,
+   "symbol": "WOLF3_BOSS_MAP",
+   "note": "28"
+  },
+  {
+   "set": "WL6",
+   "id": 29,
+   "symbol": "WOLF3_SECRET_MAP",
+   "note": "29"
+  },
+  {
+   "set": "WL6",
+   "id": 30,
+   "symbol": "WOLF4_MAP_1_MAP",
+   "note": "30"
+  },
+  {
+   "set": "WL6",
+   "id": 31,
+   "symbol": "WOLF4_MAP_2_MAP",
+   "note": "31"
+  },
+  {
+   "set": "WL6",
+   "id": 32,
+   "symbol": "WOLF4_MAP_3_MAP",
+   "note": "32"
+  },
+  {
+   "set": "WL6",
+   "id": 33,
+   "symbol": "WOLF4_MAP_4_MAP",
+   "note": "33"
+  },
+  {
+   "set": "WL6",
+   "id": 34,
+   "symbol": "WOLF4_MAP_5_MAP",
+   "note": "34"
+  },
+  {
+   "set": "WL6",
+   "id": 35,
+   "symbol": "WOLF4_MAP_6_MAP",
+   "note": "35"
+  },
+  {
+   "set": "WL6",
+   "id": 36,
+   "symbol": "WOLF4_MAP_7_MAP",
+   "note": "36"
+  },
+  {
+   "set": "WL6",
+   "id": 37,
+   "symbol": "WOLF4_MAP_8_MAP",
+   "note": "37"
+  },
+  {
+   "set": "WL6",
+   "id": 38,
+   "symbol": "WOLF4_BOSS_MAP",
+   "note": "38"
+  },
+  {
+   "set": "WL6",
+   "id": 39,
+   "symbol": "WOLF4_SECRET_MAP",
+   "note": "39"
+  },
+  {
+   "set": "WL6",
+   "id": 40,
+   "symbol": "WOLF5_MAP_1_MAP",
+   "note": "40"
+  },
+  {
+   "set": "WL6",
+   "id": 41,
+   "symbol": "WOLF5_MAP_2_MAP",
+   "note": "41"
+  },
+  {
+   "set": "WL6",
+   "id": 42,
+   "symbol": "WOLF5_MAP_3_MAP",
+   "note": "42"
+  },
+  {
+   "set": "WL6",
+   "id": 43,
+   "symbol": "WOLF5_MAP_4_MAP",
+   "note": "43"
+  },
+  {
+   "set": "WL6",
+   "id": 44,
+   "symbol": "WOLF5_MAP_5_MAP",
+   "note": "44"
+  },
+  {
+   "set": "WL6",
+   "id": 45,
+   "symbol": "WOLF5_MAP_6_MAP",
+   "note": "45"
+  },
+  {
+   "set": "WL6",
+   "id": 46,
+   "symbol": "WOLF5_MAP_7_MAP",
+   "note": "46"
+  },
+  {
+   "set": "WL6",
+   "id": 47,
+   "symbol": "WOLF5_MAP_8_MAP",
+   "note": "47"
+  },
+  {
+   "set": "WL6",
+   "id": 48,
+   "symbol": "WOLF5_BOSS_MAP",
+   "note": "48"
+  },
+  {
+   "set": "WL6",
+   "id": 49,
+   "symbol": "WOLF5_SECRET_MAP",
+   "note": "49"
+  },
+  {
+   "set": "WL6",
+   "id": 50,
+   "symbol": "WOLF6_MAP_1_MAP",
+   "note": "50"
+  },
+  {
+   "set": "WL6",
+   "id": 51,
+   "symbol": "WOLF6_MAP_2_MAP",
+   "note": "51"
+  },
+  {
+   "set": "WL6",
+   "id": 52,
+   "symbol": "WOLF6_MAP_3_MAP",
+   "note": "52"
+  },
+  {
+   "set": "WL6",
+   "id": 53,
+   "symbol": "WOLF6_MAP_4_MAP",
+   "note": "53"
+  },
+  {
+   "set": "WL6",
+   "id": 54,
+   "symbol": "WOLF6_MAP_5_MAP",
+   "note": "54"
+  },
+  {
+   "set": "WL6",
+   "id": 55,
+   "symbol": "WOLF6_MAP_6_MAP",
+   "note": "55"
+  },
+  {
+   "set": "WL6",
+   "id": 56,
+   "symbol": "WOLF6_MAP_7_MAP",
+   "note": "56"
+  },
+  {
+   "set": "WL6",
+   "id": 57,
+   "symbol": "WOLF6_MAP_8_MAP",
+   "note": "57"
+  },
+  {
+   "set": "WL6",
+   "id": 58,
+   "symbol": "WOLF6_BOSS_MAP",
+   "note": "58"
+  },
+  {
+   "set": "WL6",
+   "id": 59,
+   "symbol": "WOLF6_SECRET_MAP",
+   "note": "59"
+  },
+  {
+   "set": "WL6",
+   "id": 60,
+   "symbol": "MAP4L10PATH_MAP",
+   "note": "60"
+  },
+  {
+   "set": "WL1",
+   "id": 0,
+   "symbol": "WOLF1_MAP1_MAP",
+   "note": "0"
+  },
+  {
+   "set": "WL1",
+   "id": 1,
+   "symbol": "WOLF1_MAP2_MAP",
+   "note": "1"
+  },
+  {
+   "set": "WL1",
+   "id": 2,
+   "symbol": "WOLF1_MAP3_MAP",
+   "note": "2"
+  },
+  {
+   "set": "WL1",
+   "id": 3,
+   "symbol": "WOLF1_MAP4_MAP",
+   "note": "3"
+  },
+  {
+   "set": "WL1",
+   "id": 4,
+   "symbol": "WOLF1_MAP5_MAP",
+   "note": "4"
+  },
+  {
+   "set": "WL1",
+   "id": 5,
+   "symbol": "WOLF1_MAP6_MAP",
+   "note": "5"
+  },
+  {
+   "set": "WL1",
+   "id": 6,
+   "symbol": "WOLF1_MAP7_MAP",
+   "note": "6"
+  },
+  {
+   "set": "WL1",
+   "id": 7,
+   "symbol": "WOLF1_MAP8_MAP",
+   "note": "7"
+  },
+  {
+   "set": "WL1",
+   "id": 8,
+   "symbol": "WOLF1_BOSS_MAP",
+   "note": "8"
+  },
+  {
+   "set": "WL1",
+   "id": 9,
+   "symbol": "WOLF1_SECRET_MAP",
+   "note": "9"
+  },
+  {
+   "set": "WL1",
+   "id": 10,
+   "symbol": "WOLF2_MAP1_MAP",
+   "note": "10"
+  },
+  {
+   "set": "WL1",
+   "id": 11,
+   "symbol": "WOLF2_MAP2_MAP",
+   "note": "11"
+  },
+  {
+   "set": "WL1",
+   "id": 12,
+   "symbol": "WOLF2_MAP3_MAP",
+   "note": "12"
+  },
+  {
+   "set": "WL1",
+   "id": 13,
+   "symbol": "WOLF2_MAP4_MAP",
+   "note": "13"
+  },
+  {
+   "set": "WL1",
+   "id": 14,
+   "symbol": "WOLF2_MAP5_MAP",
+   "note": "14"
+  },
+  {
+   "set": "WL1",
+   "id": 15,
+   "symbol": "WOLF2_MAP6_MAP",
+   "note": "15"
+  },
+  {
+   "set": "WL1",
+   "id": 16,
+   "symbol": "WOLF2_MAP7_MAP",
+   "note": "16"
+  },
+  {
+   "set": "WL1",
+   "id": 17,
+   "symbol": "WOLF2_MAP8_MAP",
+   "note": "17"
+  },
+  {
+   "set": "WL1",
+   "id": 18,
+   "symbol": "WOLF2_BOSS_MAP",
+   "note": "18"
+  },
+  {
+   "set": "WL1",
+   "id": 19,
+   "symbol": "WOLF2_SECRET_MAP",
+   "note": "19"
+  },
+  {
+   "set": "WL1",
+   "id": 20,
+   "symbol": "WOLF3_MAP1_MAP",
+   "note": "20"
+  },
+  {
+   "set": "WL1",
+   "id": 21,
+   "symbol": "WOLF3_MAP2_MAP",
+   "note": "21"
+  },
+  {
+   "set": "WL1",
+   "id": 22,
+   "symbol": "WOLF3_MAP3_MAP",
+   "note": "22"
+  },
+  {
+   "set": "WL1",
+   "id": 23,
+   "symbol": "WOLF3_MAP4_MAP",
+   "note": "23"
+  },
+  {
+   "set": "WL1",
+   "id": 24,
+   "symbol": "WOLF3_MAP5_MAP",
+   "note": "24"
+  },
+  {
+   "set": "WL1",
+   "id": 25,
+   "symbol": "WOLF3_MAP6_MAP",
+   "note": "25"
+  },
+  {
+   "set": "WL1",
+   "id": 26,
+   "symbol": "WOLF3_MAP7_MAP",
+   "note": "26"
+  },
+  {
+   "set": "WL1",
+   "id": 27,
+   "symbol": "WOLF3_MAP8_MAP",
+   "note": "27"
+  },
+  {
+   "set": "WL1",
+   "id": 28,
+   "symbol": "WOLF3_BOSS_MAP",
+   "note": "28"
+  },
+  {
+   "set": "WL1",
+   "id": 29,
+   "symbol": "WOLF3_SECRET_MAP",
+   "note": "29"
+  },
+  {
+   "set": "SOD",
+   "id": 0,
+   "symbol": "TUNNELS_1_MAP",
+   "note": "0"
+  },
+  {
+   "set": "SOD",
+   "id": 1,
+   "symbol": "TUNNELS_2_MAP",
+   "note": "1"
+  },
+  {
+   "set": "SOD",
+   "id": 2,
+   "symbol": "TUNNELS_3_MAP",
+   "note": "2"
+  },
+  {
+   "set": "SOD",
+   "id": 3,
+   "symbol": "TUNNELS_4_MAP",
+   "note": "3"
+  },
+  {
+   "set": "SOD",
+   "id": 4,
+   "symbol": "TUNNEL_BOSS_MAP",
+   "note": "4"
+  },
+  {
+   "set": "SOD",
+   "id": 5,
+   "symbol": "DUNGEONS_1_MAP",
+   "note": "5"
+  },
+  {
+   "set": "SOD",
+   "id": 6,
+   "symbol": "DUNGEONS_2_MAP",
+   "note": "6"
+  },
+  {
+   "set": "SOD",
+   "id": 7,
+   "symbol": "DUNGEONS_3_MAP",
+   "note": "7"
+  },
+  {
+   "set": "SOD",
+   "id": 8,
+   "symbol": "DUNGEONS_4_MAP",
+   "note": "8"
+  },
+  {
+   "set": "SOD",
+   "id": 9,
+   "symbol": "DUNGEON_BOSS_MAP",
+   "note": "9"
+  },
+  {
+   "set": "SOD",
+   "id": 10,
+   "symbol": "CASTLE_1_MAP",
+   "note": "10"
+  },
+  {
+   "set": "SOD",
+   "id": 11,
+   "symbol": "CASTLE_2_MAP",
+   "note": "11"
+  },
+  {
+   "set": "SOD",
+   "id": 12,
+   "symbol": "CASTLE_3_MAP",
+   "note": "12"
+  },
+  {
+   "set": "SOD",
+   "id": 13,
+   "symbol": "CASTLE_4_MAP",
+   "note": "13"
+  },
+  {
+   "set": "SOD",
+   "id": 14,
+   "symbol": "CASTLE_5_MAP",
+   "note": "14"
+  },
+  {
+   "set": "SOD",
+   "id": 15,
+   "symbol": "CASTLE_BOSS_MAP",
+   "note": "15"
+  },
+  {
+   "set": "SOD",
+   "id": 16,
+   "symbol": "RAMPARTS_MAP",
+   "note": "16"
+  },
+  {
+   "set": "SOD",
+   "id": 17,
+   "symbol": "DEATH_KNIGHT_MAP",
+   "note": "17"
+  },
+  {
+   "set": "SOD",
+   "id": 18,
+   "symbol": "SECRET_1_MAP",
+   "note": "18"
+  },
+  {
+   "set": "SOD",
+   "id": 19,
+   "symbol": "SECRET_2_MAP",
+   "note": "19"
+  },
+  {
+   "set": "SOD",
+   "id": 20,
+   "symbol": "ANGEL_OF_DEATH_MAP",
+   "note": "20"
+  },
+  {
+   "set": "SDM",
+   "id": 0,
+   "symbol": "TUNNELS_1_MAP",
+   "note": "0"
+  },
+  {
+   "set": "SDM",
+   "id": 1,
+   "symbol": "TUNNELS_2_MAP",
+   "note": "1"
+  },
+  {
+   "set": "WLF",
+   "id": 0,
+   "symbol": "LEVEL_ONE_MAP",
+   "note": "0"
+  },
+  {
+   "set": "WLF",
+   "id": 1,
+   "symbol": "LEVEL_TWO_MAP",
+   "note": "1"
+  },
+  {
+   "set": "WLF",
+   "id": 2,
+   "symbol": "LEVEL_THREE_MAP",
+   "note": "2"
+  },
+  {
+   "set": "WLF",
+   "id": 3,
+   "symbol": "LEVEL_FOUR_MAP",
+   "note": "3"
+  }
+ ]
+}
