@@ -9,7 +9,11 @@ Control flow of the shipped DOS build (default `WL6`, `GOODTIMES` defined, no
 
 1. `#ifdef BETA` date gate.
 2. `CheckForEpisodes()` (WL_MENU.C:3882) — probe installed data sets, choose the
-   data-file `extension` (`WL6`/`WL1`/`SOD`/`SDM`/…).
+   data-file `extension` (`WL6`/`WL1`/`SOD`/`SDM`/…). For shareware `WL1` the
+   extension is set to `WL1` and only episode 1 is available (30 maps, 69 sounds,
+   136 pics + 2 externs). For registered WL1 the extension is also `WL1` but all
+   6 episodes are available (60 maps, etc.) — the data files differ (shareware
+   zip vs registered GAMEMAPS/VSWAP).
 3. `Patch386()` (WL_MAIN.C:241) — CPU-specific patching (`IsA386`).
 4. `InitGame()` (WL_MAIN.C:1145) — bring up memory, video, input, sound, cache.
 5. `DemoLoop()` (WL_MAIN.C:1411) — attract mode → menus → play, forever.

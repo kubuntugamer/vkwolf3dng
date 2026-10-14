@@ -92,7 +92,23 @@ Map header record (`maptype`, `ID_CA.H`): `planestart[3]`, `planelength[3]`,
 | LATCHPICS | 91–134 | 44 | Weapons, keys, `N_*` numbers, `FACE*` status faces, `PAUSED`, `GETPSYCHED` |
 | (other) | 86–90, 135+ | — | `STATUSBARPIC`, intro `T_DEMO0..3`, `T_ENDART1..6`, `ORDERSCREEN`, `ERRORSCREEN` |
 
-### 4.3 SOD lump groups `[x]`
+### 4.3 WL1 (shareware) lump groups `[x]`
+
+The shareware data files (downloaded from Internet Archive, `wolf3dsw` collection) use the same lump-number ranges as the registered WL1 build, but with reduced content:
+
+| Lump | Range | Count (shareware) | Contents |
+| --- | --- | ---: | --- |
+| README | 3–9 | 7 | same as WL6 |
+| CONTROLS | 10–42 | 33 | same as WL6 |
+| LEVELEND | 43–68 | 26 | reduced level-end pics (only episode 1) |
+| LATCHPICS | 69–134 | 66 | weapons, keys, numbers (shared with registered) |
+| (other) | 86–90, 135+ | — | `STATUSBARPIC`, intro `T_DEMO0` (only one demo) |
+
+### 4.4 Shareware data files `[ ]`
+
+A full copy of the shareware v1.4 data is available as `wolf3dshareware.zip` (654.8 KB, Internet Archive). It contains the nine container files listed in `FORMATS.md` §2, all with extension `WL1`. The counts match the WL1 enum defines (`NUMPICS 136`, `NUMEXTERNS 2`, `NUMSOUNDS 69`, `NUMSNDCHUNKS 234`, `NUMMUSIC 27`, `LASTMAP 30`). See `DATA-REQUIREMENTS.md` for the per-file breakdown.
+
+### 4.5 SOD lump groups `[x]`
 
 BACKDROP 3–8 · CONTROL 9–15 · OPTIONS 16 · SOUND 17–19 · NEWGAME 20–24 ·
 LOADSAVE 25–28 · HIGHSCORES 29–30 · ENDGAME 31–35 · LEVELEND 36–78 ·

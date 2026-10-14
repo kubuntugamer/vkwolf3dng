@@ -36,8 +36,11 @@ Asset file names are built from globals in `ID_CA.C:88`:
 > enum block from `STARTEXTERNS` are **externs** (order/error screens + help/
 > end/demo art). In this build they are `VGRAPH` chunks loaded via
 > `CA_CacheGrChunk` (`ID_CA.C:1318`); only the non-`ARTSEXTERN` build reads
-> them as separate files. Hence e.g. WL6 `NUMPICS 132` + `NUMEXTERNS 13` = 145
-> enum symbols.
+> them as separate files. The shareware data (`wolf3dshareware.zip`) uses the
+> same VGRAPH format with extension `WL1`; hence e.g. WL1 `NUMPICS 132` +
+> `NUMEXTERNS 2` = 144 enum symbols (shareware has only one episode's worth of
+> extern art). Registered WL1 has `NUMEXTERNS 2` as well but with additional
+> externs for episodes 2–6.
 
 ---
 

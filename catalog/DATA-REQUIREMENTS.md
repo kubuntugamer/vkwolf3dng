@@ -112,6 +112,57 @@ Maps (`MAPS*.H`, `ID_CA.H`):
 | `MAPHEADERLINKED` | ✗ | map header linked in (no `MAPHEAD`), uses `maphead[]`. |
 | `AUDIOHEADERLINKED` | ✗ | audio header/dict linked in; file becomes `AUDIO.WLF` (`ID_CA.C:1064`). |
 
+## 4. Shareware data files
+
+A full copy of the Wolfenstein 3D v1.4 shareware distribution is available as
+`wolf3dshareware.zip` (654.8 KB, Internet Archive, identifier `wolf3dsw`). The
+zip contains nine container files, all with runtime extension **`WL1`**
+(`EXTENSION="WL1"` is set by `CheckForEpisodes` when no `WL6`/`SOD`/`SDM`/``JAPAN``
+data is found). The shareware build differs from the registered WL1 build only in
+the available episode content and the actual data files:
+
+| File | Shareware size | Registered counterpart | Notes |
+| --- | --- | --- | --- |
+| `VSWAP.WL1` | 742 912 B | `VSWAP.WL6` / `VSWAP.WL1` (registered) | page‑manager; same format, different chunk data |
+| `VGAHEAD.WL1` | 471 B | same name, different offsets | 3‑byte offset table, `GREXT="VGA"` |
+| `VGADICT.WL1` | 1 024 B | same | 255‑node Huffman dictionary |
+| `VGAGRAPH.WL1` | 326 568 B | `VGRAPH.<ext>` | compressed graphics; shareware has 136 pics + 2 externs |
+| `MAPHEAD.WL1` | 402 B | same | `mapfiletype` + `headeroffsets[100]` |
+| `GAMEMAPS.WL1` | 27 425 B | `GAMEMAPS.<ext>` (CARMACIZED) / `MAPTEMP.<ext>` | 30 maps (episode 1 only) |
+| `AUDIOHED.WL1` | 1 156 B | same | `AUDIOHED` header, `NUMSNDCHUNKS 234` |
+| `AUDIOT.WL1` | 132 613 B | same | 69 sounds, Huffman‑compressed |
+| `WOLF3D.EXE` | 109 959 B | N/A | the shareware executable (for reference) |
+
+> **Extension selection**: `CheckForEpisodes` (`WL_MENU.C:3882`) first probes
+> `*.WL6`; if not found, probes `*.WL3`; if not found, probes `*.WL1`. The shareware
+> zip contains only episode‑1 data, so the game starts at episode 1 with reduced
+> content (30 maps, 69 sounds, 1 episode of extern art). Registered WL1 has all
+> 6 episodes and different data files (GAMEMAPS, VSWAP etc. built from the
+> registered headers).
+
+| Constant | Shareware WL1 | Registered WL1 |
+| --- | ---: | ---: |
+| `NUMCHUNKS` | 556 | 556 |
+| `NUMPICS` | 136 | 136 |
+| `NUMTILE8` | 72 | 72 |
+| `NUMTILE16` | 0 | 0 |
+| `NUMEXTERNS` | 2 | 2 |
+| `NUMFONT` | 2 | 2 |
+| `STARTFONT` | 1 | 1 |
+| `STARTPICS` | 3 | 3 |
+| `STARTFONTM` | 3 | 3 |
+| `STARTPICM` | 135 | 135 |
+| `STARTEXTERNS` | 135 | 135 |
+| `NUMSOUNDS` | 69 | 69 |
+| `NUMSNDCHUNKS` | 234 | 234 |
+| `STARTPCSOUNDS` | 0 | 0 |
+| `STARTADLIBSOUNDS` | 69 | 69 |
+| `STARTDIGISOUNDS` | 138 | 138 |
+| `STARTMUSIC` | 207 | 207 |
+| `LASTMAP` | 30 | 30 (61 with secret) |
+| `NUMMAPS` | 60 | 60 |
+| `MAPPLANES` | 2 | 2 |
+
 ## 5. Runtime sequence
 
 ```mermaid
